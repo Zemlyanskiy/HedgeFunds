@@ -1,15 +1,15 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2020 5.39 1.16 7.02 4.06 -0.93 -4.74 0.34 -2.71 -3.10 -0.59 -0.79 -4.14 0.21 -15.60 
-2019 5.17 2.69 0.52 -0.67 -0.32 -2.71 3.58 0.06 -8.66 4.87 3.80 -0.78 6.92 -8.81 
-2018 3.43 4.79 23.76 -6.01 15.24 -0.64 4.81 -6.96 3.54 13.01 0.69 10.39 83.09 -6.96 
-2017 26.22 0.02 -6.77 15.60 -0.85 -6.26 1.20 -9.51 -16.32 -7.65 9.63 7.58 5.55 -34.23 
-2016 -27.94 -2.52 2.15 3.09 4.67 -14.86 14.20 8.96 22.10 15.85 9.66 -22.01 -0.77 -34.08 
-2015 1.31 14.48 -2.46 -6.36 -5.36 -1.52 -17.02 8.59 18.72 -11.33 2.65 2.45 -1.51 -29.36 
-2014 8.77 8.77 0.00 
-Program / Index Dec Qtr YTD 1yr 3yr 5yr 10yr Since12/2014 
-Diversified Seasonal Spreads -4.14 -4.90 - -4.92 89.66 185.12 - 120.10 
-S&P 500 3.71 11.69 - 16.26 40.48 81.90 - 78.56 
-+/- S&P 500 -7.85 -16.59 - -21.18 49.19 103.23 - 41.54 
+2021 -4.69 -3.87 2.04 -5.89 -12.02 -12.02 2020 5.39 1.16 7.02 4.06 -0.93 -4.74 0.34 
+-2.71 -3.10 -0.59 -0.79 -4.14 0.21 -15.60 2019 5.17 2.69 0.52 -0.67 -0.32 -2.71 3.58 
+0.06 -8.66 4.87 3.80 -0.78 6.92 -8.81 2018 3.43 4.79 23.76 -6.01 15.24 -0.64 4.81 
+-6.96 3.54 13.01 0.69 10.39 83.09 -6.96 2017 26.22 0.02 -6.77 15.60 -0.85 -6.26 1.20 
+-9.51 -16.32 -7.65 9.63 7.58 5.55 -34.23 2016 -27.94 -2.52 2.15 3.09 4.67 -14.86 14.20 
+8.96 22.10 15.85 9.66 -22.01 -0.77 -34.08 2015 1.31 14.48 -2.46 -6.36 -5.36 -1.52 -17.02 
+8.59 18.72 -11.33 2.65 2.45 -1.51 -29.36 2014 8.77 8.77 0.00 
+Program / Index Apr Qtr YTD 1yr 3yr 5yr 10yr Since12/2014 
+Diversified Seasonal Spreads -5.89 -7.69 -12.02 -25.74 36.90 144.38 - 93.65 
+S&P 500 5.24 16.22 14.93 48.22 63.01 106.89 - 107.54 
++/- S&P 500 -11.13 -23.91 -26.95 -73.96 -26.11 37.49 - -13.88 
 Type Managed Account 
 Minimum Investment $ 100k 
 Trading Level Incremental Increase $ 100k 
@@ -35,115 +35,37 @@ Over 12 Months 0%
 Intraday 0% 
 Discretionary 80.00% 
 Systematic 20.00% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Depth Length (Mos.) Recovery (Mos.) Peak Valley 
--44.02 16 5 2/1/2015 6/1/2016 
--34.23 6 5 4/1/2017 10/1/2017 
--22.01 1 4 11/1/2016 12/1/2016 
--15.60 8 - 4/1/2020 12/1/2020 
--8.81 6 4 3/1/2019 9/1/2019 
--6.96 1 2 7/1/2018 8/1/2018 
--6.01 1 1 3/1/2018 4/1/2018 
--0.64 1 1 5/1/2018 6/1/2018 
-Run-up Length (Mos.) Start End 
-93.02 5 7/1/2016 11/1/2016 
-58.20 5 11/1/2017 3/1/2018 
-41.19 7 9/1/2018 3/1/2019 
-28.92 2 8/1/2015 9/1/2015 
-26.25 2 1/1/2017 2/1/2017 
-26.15 3 12/1/2014 2/1/2015 
-18.73 4 1/1/2020 4/1/2020 
-15.60 1 4/1/2017 4/1/2017 
-15.24 1 5/1/2018 5/1/2018 
-10.22 3 3/1/2016 5/1/2016 
-8.86 2 10/1/2019 11/1/2019 
-5.16 2 11/1/2015 12/1/2015 
-4.81 1 7/1/2018 7/1/2018 
-3.64 2 7/1/2019 8/1/2019 
-1.20 1 7/1/2017 7/1/2017 
-0.34 1 7/1/2020 7/1/2020 
-Run-up Length (Mos.) Start End 
--30.07 3 8/1/2017 10/1/2017 
--29.76 2 1/1/2016 2/1/2016 
--29.36 5 3/1/2015 7/1/2015 
--22.01 1 12/1/2016 12/1/2016 
--14.86 1 6/1/2016 6/1/2016 
--11.33 1 10/1/2015 10/1/2015 
--10.87 5 8/1/2020 12/1/2020 
--8.66 1 9/1/2019 9/1/2019 
--7.06 2 5/1/2017 6/1/2017 
--6.96 1 8/1/2018 8/1/2018 
--6.77 1 3/1/2017 3/1/2017 
--6.01 1 4/1/2018 4/1/2018 
--5.63 2 5/1/2020 6/1/2020 
--3.67 3 4/1/2019 6/1/2019 
--0.78 1 12/1/2019 12/1/2019 
--0.64 1 6/1/2018 6/1/2018 
- 1 Month 3 Month 6 Month 12 Month 18 Month 2 Year 3 Year 4 Year 
-Number of Periods 73.00 71.00 68.00 62.00 56.00 50.00 38.00 26.00 
-Percent Profitable 57.53 59.15 61.76 72.58 89.29 92.00 97.37 100.00 
-Average Period Return 1.56 4.64 9.41 21.82 35.43 54.83 92.87 134.24 
-Average Gain 7.53 14.98 24.39 36.74 42.14 60.02 95.48 134.24 
-Average Loss -6.53 -10.34 -14.79 -17.70 -20.52 -4.87 -3.60  
-Best Period 26.22 55.12 66.38 94.27 132.85 129.36 204.20 248.51 
-Worst Period -27.94 -30.07 -34.23 -40.35 -35.08 -10.33 -3.60 68.45 
-Standard Deviation 9.74 17.32 25.39 35.68 34.64 36.02 57.14 57.47 
-Gain Standard Deviation 6.82 13.66 19.75 29.45 30.02 32.66 55.59 57.47 
-Loss Standard Deviation 6.81 9.18 10.13 13.57 12.65 4.50   
-Sharpe Ratio (1%) 0.15 0.25 0.35 0.58 0.98 1.47 1.57 2.27 
-Average Gain / Average Loss 1.15 1.45 1.65 2.08 2.05 12.33 26.51  
-Profit / Loss Ratio 1.56 2.10 2.66 5.50 17.11 141.84 980.70  
-Downside Deviation (10%) 6.29 9.37 12.32 13.75 10.00 4.70 4.52  
-Downside Deviation (5%) 6.14 8.89 11.27 11.97 8.14 2.24 1.08  
-Downside Deviation (0%) 6.10 8.77 11.01 11.55 7.71 1.76 0.58  
-Sortino Ratio (10%) 0.18 0.36 0.56 1.22 2.78 9.49 17.08  
-Sortino Ratio (5%) 0.24 0.49 0.79 1.74 4.17 23.62 83.50  
-Sortino Ratio (0%) 0.26 0.53 0.85 1.89 4.60 31.08 158.93  
 Index Award Type Rank Performance Period 
+Discretionary Trader Index Month 6 2.04 3/2021 
+IASG CTA Index 5 Year 8 105.46 2015 - 2020 
+IASG CTA Index 3 Year 4 96.17 2017 - 2020 
 Diversified Trader Index Month 10 4.06 4/2020 
 Diversified Trader Index Month 9 5.39 1/2020 
 IASG CTA Index Month 10 5.39 1/2020 
 Systematic Trader Index Month 10 5.39 1/2020 
 IASG CTA Index 5 Year 3 101.94 2014 - 2019 
 IASG CTA Index 3 Year 3 106.62 2016 - 2019 
-Diversified Trader Index Month 2 3.79 11/2019 
 Systematic Trader Index Month 4 3.79 11/2019 
 IASG CTA Index Month 5 3.79 11/2019 
+Diversified Trader Index Month 2 3.79 11/2019 
 Diversified Trader Index Month 2 4.87 10/2019 
 Systematic Trader Index Month 3 4.87 10/2019 
 IASG CTA Index Month 4 4.87 10/2019 
 Program Name CAROR 
-Agriculture Seasonal Spreads 21.75% 
-Diversified Seasonal Spreads 13.85% 
+Agriculture Seasonal Spreads 16.71% 
+Diversified Seasonal Spreads 10.85% 
+Pattern Recognition 30.00%
+Seasonal/cyclical 40.00%
+Technical 30.00%
+Energy 30.00%
+Livestock 30.00%
+Grains 20.00%
+Softs 15.00%
+Precious Metals 3.00%
+Interest Rates 2.00%
+Annualized Vol 33.11%
+Sharpe (RFR=1%) 0.45
+CAROR 10.85%
+Assets $ 1.7M
+Worst DD -44.02
+S&P  Correlation -0.11

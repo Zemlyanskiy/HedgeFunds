@@ -1,13 +1,13 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2021 -1.87 -1.87 -1.87 2020 -2.27 5.80 9.96 0.09 0.01 0.14 0.53 -0.32 -6.31 -2.86 
-0.71 4.58 9.47 -9.28 2019 1.50 -2.52 1.97 0.66 1.66 2.02 3.00 2.89 -2.76 -2.94 
-3.79 0.31 9.68 -5.62 2018 4.28 -3.93 -1.12 -0.53 1.62 0.37 -3.35 -3.12 -1.12 -1.43 
--1.01 5.15 -4.53 -12.93 2017 -2.57 0.34 -3.88 3.00 3.35 -3.74 5.54 -0.80 -1.99 -1.20 
--6.03 
-Program / Index Jan Qtr YTD 1yr 3yr 5yr 10yr Since4/2017 
-Eagle Customized Trend -1.87 3.35 -1.87 9.92 7.87 - - 11.14 
-S&P 500 -1.11 13.59 -1.11 15.15 31.52 - - 54.20 
-+/- S&P 500 -0.76 -10.23 -0.76 -5.23 -23.65 - - -43.06 
+2021 -1.92 9.77 0.93 -0.93 7.65 -1.92 2020 -2.27 5.80 9.96 0.09 0.01 0.14 0.53 
+-0.32 -6.31 -2.86 0.71 4.58 9.47 -9.28 2019 1.50 -2.52 1.97 0.66 1.66 2.02 3.00 
+2.89 -2.76 -2.94 3.79 0.31 9.68 -5.62 2018 4.28 -3.93 -1.12 -0.53 1.62 0.37 -3.35 
+-3.12 -1.12 -1.43 -1.01 5.15 -4.53 -12.93 2017 -2.57 0.34 -3.88 3.00 3.35 -3.74 5.54 
+-0.80 -1.99 -1.20 -6.03 
+Program / Index Apr Qtr YTD 1yr 3yr 5yr 10yr Since4/2017 
+Eagle Customized Trend -0.93 9.76 7.65 3.56 25.24 - - 21.93 
+S&P 500 5.24 16.22 14.93 48.22 63.01 - - 79.22 
++/- S&P 500 -6.17 -6.46 -7.28 -44.66 -37.77 - - -57.29 
 Type Managed Account 
 "Minimum Investment $ 10,000k "
 Trading Level Incremental Increase $ 0k 
@@ -33,91 +33,24 @@ Over 12 Months 0%
 Intraday 0% 
 Discretionary 0% 
 Systematic 100.00% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Depth Length (Mos.) Recovery (Mos.) Peak Valley 
--12.93 10 9 1/1/2018 11/1/2018 
--9.28 3 - 7/1/2020 10/1/2020 
--6.03 3 2 1/1/0001 6/1/2017 
--5.62 2 4 8/1/2019 10/1/2019 
--3.74 1 1 8/1/2017 9/1/2017 
--2.77 2 1 10/1/2017 12/1/2017 
-Run-up Length (Mos.) Start End 
-17.24 6 2/1/2020 7/1/2020 
-12.82 6 3/1/2019 8/1/2019 
-6.73 2 12/1/2018 1/1/2019 
-6.45 2 7/1/2017 8/1/2017 
-5.54 1 10/1/2017 10/1/2017 
-5.32 2 11/1/2020 12/1/2020 
-4.28 1 1/1/2018 1/1/2018 
-4.11 2 11/1/2019 12/1/2019 
-2.00 2 5/1/2018 6/1/2018 
-0.34 1 5/1/2017 5/1/2017 
-Run-up Length (Mos.) Start End 
--9.66 5 7/1/2018 11/1/2018 
--9.28 3 8/1/2020 10/1/2020 
--5.62 2 9/1/2019 10/1/2019 
--5.51 3 2/1/2018 4/1/2018 
--3.88 1 6/1/2017 6/1/2017 
--3.74 1 9/1/2017 9/1/2017 
--2.77 2 11/1/2017 12/1/2017 
--2.57 1 4/1/2017 4/1/2017 
--2.52 1 2/1/2019 2/1/2019 
--2.27 1 1/1/2020 1/1/2020 
--1.87 1 1/1/2021 1/1/2021 
- 1 Month 3 Month 6 Month 12 Month 18 Month 2 Year 
-Number of Periods 46.00 44.00 41.00 35.00 29.00 23.00 
-Percent Profitable 54.35 63.64 58.54 62.86 68.97 78.26 
-Average Period Return 0.28 0.96 2.23 5.37 7.85 10.98 
-Average Gain 2.53 3.92 7.35 11.25 13.49 14.64 
-Average Loss -2.40 -4.23 -5.01 -4.59 -4.67 -2.19 
-Best Period 9.96 16.44 18.48 23.60 31.26 27.08 
-Worst Period -6.31 -9.28 -9.33 -11.01 -8.24 -4.83 
-Standard Deviation 3.19 5.35 7.57 9.51 12.26 9.97 
-Gain Standard Deviation 2.40 3.99 5.32 6.42 10.47 7.92 
-Loss Standard Deviation 1.43 2.92 2.73 3.60 3.11 1.63 
-Sharpe Ratio (1%) 0.06 0.13 0.23 0.46 0.52 0.90 
-Average Gain / Average Loss 1.05 0.93 1.47 2.45 2.89 6.68 
-Profit / Loss Ratio 1.25 1.62 2.07 4.15 6.42 24.03 
-Downside Deviation (10%) 2.12 3.72 5.13 6.30 7.43 6.48 
-Downside Deviation (5%) 1.92 3.19 3.94 4.01 3.82 2.07 
-Downside Deviation (0%) 1.88 3.07 3.65 3.50 3.07 1.23 
-Sortino Ratio (10%) -0.06 -0.07 -0.05 0.06 0.04 0.11 
-Sortino Ratio (5%) 0.10 0.22 0.44 1.09 1.66 4.33 
-Sortino Ratio (0%) 0.15 0.31 0.61 1.53 2.56 8.95 
 Index Award Type Rank Performance Period 
+Trend Following Strategy Index Month 9 9.77 2/2021 
 Trend Following Strategy Index Month 7 0.14 6/2020 
 Trend Following Strategy Index Month 9 5.80 2/2020 
 Program Name CAROR 
-Eagle Customized Trend 2.79% 
+Eagle Customized Trend 4.98% 
+Trend-following 100.00%
+Currency Futures 29.00%
+Interest Rates 29.00%
+Stock Indices 29.00%
+Energy 4.00%
+Grains 4.00%
+Industrial Metals 3.00%
+Precious Metals 1.00%
+Other 1.00%
+Annualized Vol 11.70%
+Sharpe (RFR=1%) 0.39
+CAROR 4.98%
+Assets $ 54.0M
+Worst DD -12.93
+S&P  Correlation -0.11

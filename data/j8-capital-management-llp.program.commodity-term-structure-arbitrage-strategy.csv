@@ -1,9 +1,10 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2021 3.29 3.29 0.00 2020 -3.87 0.29 0.08 -2.25 -1.28 -2.28 3.71 6.04 0.06 -9.02 
-Program / Index Jan Qtr YTD 1yr 3yr 5yr 10yr Since5/2020 
-Commodity Term Structure Arbitrage Strategy 3.29 13.59 3.29 - - - - 3.35 
-S&P 500 -1.11 13.59 -1.11 - - - - 22.01 
-+/- S&P 500 4.40 0.01 4.40 - - - - -18.65 
+2021 3.29 0.47 -1.98 5.12 6.93 -1.98 2020 -3.87 0.29 0.08 -2.25 -1.28 -2.28 3.71 
+6.04 0.06 -9.02 
+Program / Index Apr Qtr YTD 1yr 3yr 5yr 10yr Since5/2020 
+Commodity Term Structure Arbitrage Strategy 5.12 3.52 6.93 6.99 - - - 6.99 
+S&P 500 5.24 16.22 14.93 48.22 - - - 41.80 
++/- S&P 500 -0.12 -12.70 -8.00 -41.23 - - - -34.81 
 Type Managed Account 
 Minimum Investment $ 500k 
 Trading Level Incremental Increase $ 0k 
@@ -29,68 +30,19 @@ Over 12 Months 0%
 Intraday 0% 
 Discretionary 0% 
 Systematic 100.00% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Depth Length (Mos.) Recovery (Mos.) Peak Valley 
--9.02 6 2 1/1/0001 10/1/2020 
-Run-up Length (Mos.) Start End 
-13.59 3 11/1/2020 1/1/2021 
-0.37 2 6/1/2020 7/1/2020 
-Run-up Length (Mos.) Start End 
--5.70 3 8/1/2020 10/1/2020 
--3.87 1 5/1/2020 5/1/2020 
- 1 Month 3 Month 
-Number of Periods 9.00 7.00 
-Percent Profitable 55.56 42.86 
-Average Period Return 0.41 0.94 
-Average Gain 2.68 7.04 
-Average Loss -2.42 -3.63 
-Best Period 6.04 13.59 
-Worst Period -3.87 -5.70 
-Standard Deviation 3.29 7.01 
-Gain Standard Deviation 2.51 6.78 
-Loss Standard Deviation 1.07 1.57 
-Sharpe Ratio (1%) 0.10 0.10 
-Average Gain / Average Loss 1.11 1.94 
-Profit / Loss Ratio 1.39 1.45 
-Downside Deviation (10%) 1.99 3.84 
-Downside Deviation (5%) 1.78 3.11 
-Downside Deviation (0%) 1.73 2.93 
-Sortino Ratio (10%) 0.00 -0.07 
-Sortino Ratio (5%) 0.19 0.22 
-Sortino Ratio (0%) 0.24 0.32 
 Index Award Type Rank Performance Period 
 Program Name CAROR 
 Commodity Term Structure Arbitrage Strategy - 
-J8 Global Absolute Return Strategy 3.83% 
+J8 Global Absolute Return Strategy 4.63% 
+Arbitrage 100.00%
+Energy 33.00%
+Grains 27.00%
+Softs 20.00%
+Livestock 13.00%
+Industrial Metals 7.00%
+Annualized Vol 11.15%
+Sharpe (RFR=1%) 0.57
+CAROR -
+Assets $ 500k
+Worst DD -9.02
+S&P  Correlation 0.23

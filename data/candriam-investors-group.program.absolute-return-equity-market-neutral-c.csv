@@ -1,13 +1,14 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2020 0.82 -0.76 1.84 2.49 4.67 1.94 -0.63 -0.09 -0.05 -0.57 0.82 3.14 14.32 -1.33 
-2019 1.74 0.79 -1.57 -1.25 -5.38 0.26 -0.06 -1.75 5.47 -1.05 0.75 3.00 0.55 -9.46 
-2018 -0.68 -2.12 2.34 -0.82 0.91 -1.65 2.02 1.40 -1.87 0.56 1.03 -1.40 -0.42 -2.79 
-2017 0.27 0.47 -1.35 0.46 -0.92 1.72 1.61 -0.85 1.94 -0.93 1.32 1.45 5.23 -1.81 
-2016 -0.59 2.48 0.76 -0.23 -0.25 1.22 0.61 1.84 5.95 -0.59 
-Program / Index Dec Qtr YTD 1yr 3yr 5yr 10yr Since5/2016 
-Absolute Return Equity Market Neutral C 3.14 3.99 - 13.39 15.26 - - 27.63 
-S&P 500 3.71 11.69 - 16.26 40.48 - - 75.32 
-+/- S&P 500 -0.57 -7.70 - -2.86 -25.22 - - -47.69 
+2021 0.80 1.69 1.82 4.37 0.00 2020 0.82 -0.76 1.84 2.49 4.67 1.94 -0.63 -0.09 
+-0.05 -0.57 0.82 3.14 14.32 -1.33 2019 1.74 0.79 -1.57 -1.25 -5.38 0.26 -0.06 -1.75 
+5.47 -1.05 0.75 3.00 0.55 -9.46 2018 -0.68 -2.12 2.34 -0.82 0.91 -1.65 2.02 1.40 
+-1.87 0.56 1.03 -1.40 -0.42 -2.79 2017 0.27 0.47 -1.35 0.46 -0.92 1.72 1.61 -0.85 
+1.94 -0.93 1.32 1.45 5.23 -1.81 2016 -0.59 2.48 0.76 -0.23 -0.25 1.22 0.61 1.84 
+5.95 -0.59 
+Program / Index Mar Qtr YTD 1yr 3yr 5yr 10yr Since5/2016 
+Absolute Return Equity Market Neutral C 1.82 3.54 4.37 14.26 21.08 33.21 - 33.21 
+S&P 500 4.24 9.21 9.21 58.70 55.31 97.12 - 103.77 
++/- S&P 500 -2.42 -5.66 -4.84 -44.45 -34.23 -63.91 - -70.56 
 Type Fund 
 Minimum Investment € 250k 
 Trading Level Incremental Increase € 0k 
@@ -33,105 +34,13 @@ Over 12 Months 0%
 Intraday 0% 
 Discretionary 0% 
 Systematic 100.00% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Depth Length (Mos.) Recovery (Mos.) Peak Valley 
--9.46 6 8 2/1/2019 8/1/2019 
--2.79 2 6 12/1/2017 2/1/2018 
--1.87 1 4 8/1/2018 9/1/2018 
--1.81 3 2 2/1/2017 5/1/2017 
--1.33 4 2 6/1/2020 10/1/2020 
--0.93 1 1 9/1/2017 10/1/2017 
--0.85 1 1 7/1/2017 8/1/2017 
--0.59 1 1 1/1/0001 5/1/2016 
--0.48 2 1 7/1/2016 9/1/2016 
-Run-up Length (Mos.) Start End 
-11.37 4 3/1/2020 6/1/2020 
-5.47 1 9/1/2019 9/1/2019 
-4.62 3 11/1/2019 1/1/2020 
-4.48 5 10/1/2016 2/1/2017 
-3.99 2 11/1/2020 12/1/2020 
-3.45 2 7/1/2018 8/1/2018 
-3.36 2 6/1/2017 7/1/2017 
-3.26 2 6/1/2016 7/1/2016 
-2.79 2 11/1/2017 12/1/2017 
-2.54 2 1/1/2019 2/1/2019 
-2.34 1 3/1/2018 3/1/2018 
-1.94 1 9/1/2017 9/1/2017 
-1.60 2 10/1/2018 11/1/2018 
-0.91 1 5/1/2018 5/1/2018 
-0.46 1 4/1/2017 4/1/2017 
-0.26 1 6/1/2019 6/1/2019 
-Run-up Length (Mos.) Start End 
--8.03 3 3/1/2019 5/1/2019 
--2.79 2 1/1/2018 2/1/2018 
--1.87 1 9/1/2018 9/1/2018 
--1.81 2 7/1/2019 8/1/2019 
--1.65 1 6/1/2018 6/1/2018 
--1.40 1 12/1/2018 12/1/2018 
--1.35 1 3/1/2017 3/1/2017 
--1.33 4 7/1/2020 10/1/2020 
--1.05 1 10/1/2019 10/1/2019 
--0.93 1 10/1/2017 10/1/2017 
--0.92 1 5/1/2017 5/1/2017 
--0.85 1 8/1/2017 8/1/2017 
--0.82 1 4/1/2018 4/1/2018 
--0.76 1 2/1/2020 2/1/2020 
--0.59 1 5/1/2016 5/1/2016 
--0.48 2 8/1/2016 9/1/2016 
- 1 Month 3 Month 6 Month 12 Month 18 Month 2 Year 3 Year 
-Number of Periods 56.00 54.00 51.00 45.00 39.00 33.00 21.00 
-Percent Profitable 57.14 72.22 82.35 77.78 79.49 78.79 100.00 
-Average Period Return 0.45 1.25 2.50 4.36 5.02 5.86 8.86 
-Average Gain 1.63 2.55 3.93 6.63 7.23 7.88 8.86 
-Average Loss -1.12 -2.12 -4.18 -3.59 -3.55 -1.67  
-Best Period 5.47 9.36 12.59 19.81 21.57 14.95 16.69 
-Worst Period -5.38 -8.03 -9.46 -8.73 -5.84 -4.02 0.65 
-Standard Deviation 1.78 3.02 4.47 6.64 5.98 5.14 5.08 
-Gain Standard Deviation 1.19 2.09 3.23 5.60 4.45 3.64 5.08 
-Loss Standard Deviation 1.08 2.39 3.22 2.63 1.81 1.41  
-Sharpe Ratio (1%) 0.21 0.33 0.45 0.51 0.59 0.75 1.15 
-Average Gain / Average Loss 1.46 1.20 0.94 1.85 2.04 4.73  
-Profit / Loss Ratio 1.94 3.12 4.39 6.47 7.90 17.57  
-Downside Deviation (10%) 1.22 2.17 3.17 4.54 5.66 6.61 8.50 
-Downside Deviation (5%) 1.05 1.75 2.34 2.46 2.41 1.83 0.55 
-Downside Deviation (0%) 1.01 1.66 2.17 2.06 1.78 0.98  
-Sortino Ratio (10%) 0.04 0.01 0.01 -0.14 -0.45 -0.66 -0.81 
-Sortino Ratio (5%) 0.35 0.58 0.85 1.36 1.46 2.10 10.63 
-Sortino Ratio (0%) 0.45 0.76 1.15 2.12 2.82 6.00  
 Index Award Type Rank Performance Period 
 Program Name CAROR 
-Absolute Return Equity Market Neutral C 5.37% 
-Alternative Return Systemat 4.45% 
-Candriam Diversified Futures I (Part C) 1.57% 
+Absolute Return Equity Market Neutral C 6.01% 
+Candriam Diversified Futures I (Part C) 1.45% 
+Annualized Vol 6.07%
+Sharpe (RFR=1%) 0.83
+CAROR 6.01%
+Assets € 278.2M
+Worst DD -9.46
+S&P  Correlation 0.32

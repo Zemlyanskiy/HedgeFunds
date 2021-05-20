@@ -1,11 +1,11 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2020 2.94 -11.70 3.94 15.02 0.96 -0.12 2.88 2.63 -0.61 -2.09 1.90 3.18 18.38 -11.70 
-2019 6.74 0.29 4.40 2.85 -3.91 1.02 -1.20 -0.02 1.57 5.21 2.19 2.79 23.72 -4.11 
-2018 0.82 -3.71 0.88 -7.64 -9.55 -10.28 
-Program / Index Dec Qtr YTD 1yr 3yr 5yr 10yr Since9/2018 
-DL Two 3.18 5.14 - 15.00 - - - 32.47 
-S&P 500 3.71 11.69 - 16.26 - - - 27.45 
-+/- S&P 500 -0.53 -6.55 - -1.26 - - - 5.02 
+2021 -5.31 0.89 2.90 1.60 -0.12 -5.31 2020 2.94 -11.70 3.94 15.02 -0.96 -0.12 2.88 
+2.63 -0.61 -2.19 1.90 3.18 16.01 -11.70 2019 6.74 0.29 4.40 2.85 -3.91 1.02 -1.20 
+-1.76 1.57 5.21 2.19 2.79 21.56 -5.78 2018 -0.82 -3.71 0.88 -7.64 -11.02 -11.02 
+Program / Index Apr Qtr YTD 1yr 3yr 5yr 10yr Since9/2018 
+DL Two 1.60 5.48 -0.12 6.62 - - - 25.33 
+S&P 500 5.24 16.22 14.93 48.22 - - - 48.13 
++/- S&P 500 -3.64 -10.75 -15.05 -41.60 - - - -22.80 
 Type Managed Account 
 "Minimum Investment $ 1,000k "
 Trading Level Incremental Increase $ 500k 
@@ -31,85 +31,18 @@ Over 12 Months 0%
 Intraday 0% 
 Discretionary 0% 
 Systematic 100.00% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Depth Length (Mos.) Recovery (Mos.) Peak Valley 
--11.70 1 2 1/1/2020 2/1/2020 
--10.28 3 3 9/1/2018 12/1/2018 
--4.11 4 2 4/1/2019 8/1/2019 
--2.69 2 2 8/1/2020 10/1/2020 
--0.12 1 1 5/1/2020 6/1/2020 
-Run-up Length (Mos.) Start End 
-20.70 3 3/1/2020 5/1/2020 
-15.55 5 9/1/2019 1/1/2020 
-14.94 4 1/1/2019 4/1/2019 
-5.59 2 7/1/2020 8/1/2020 
-5.14 2 11/1/2020 12/1/2020 
-1.02 1 6/1/2019 6/1/2019 
-0.88 1 11/1/2018 11/1/2018 
-0.82 1 9/1/2018 9/1/2018 
-Run-up Length (Mos.) Start End 
--11.70 1 2/1/2020 2/1/2020 
--7.64 1 12/1/2018 12/1/2018 
--3.91 1 5/1/2019 5/1/2019 
--3.71 1 10/1/2018 10/1/2018 
--2.69 2 9/1/2020 10/1/2020 
--1.22 2 7/1/2019 8/1/2019 
--0.12 1 6/1/2020 6/1/2020 
- 1 Month 3 Month 6 Month 12 Month 18 Month 
-Number of Periods 28.00 26.00 23.00 17.00 11.00 
-Percent Profitable 67.86 57.69 95.65 94.12 100.00 
-Average Period Return 1.11 3.29 7.81 16.06 24.13 
-Average Gain 3.27 7.80 8.31 17.09 24.13 
-Average Loss -3.44 -2.87 -3.17 -0.31  
-Best Period 15.02 20.70 27.29 29.87 35.57 
-Worst Period -11.70 -10.28 -3.17 -0.31 1.72 
-Standard Deviation 4.69 7.01 7.21 9.39 11.09 
-Gain Standard Deviation 3.28 5.31 6.96 8.66 11.09 
-Loss Standard Deviation 3.93 3.35    
-Sharpe Ratio (1%) 0.22 0.43 1.01 1.60 2.04 
-Average Gain / Average Loss 0.95 2.72 2.62 55.57  
-Profit / Loss Ratio 2.01 3.71 57.66 889.10  
-Downside Deviation (10%) 3.03 3.38 1.36 1.70 1.95 
-Downside Deviation (5%) 2.90 2.90 0.77 0.35  
-Downside Deviation (0%) 2.87 2.79 0.66 0.07  
-Sortino Ratio (10%) 0.23 0.61 3.94 6.50 8.46 
-Sortino Ratio (5%) 0.36 1.05 9.50 43.60  
-Sortino Ratio (0%) 0.39 1.18 11.81 215.40  
 Index Award Type Rank Performance Period 
+Stock Index Trader Index Month 8 2.90 3/2021 
 Stock Index Trader Index Month 3 3.18 12/2020 
 Program Name CAROR 
 RL One (S&P 500 long/short) - 
-DL Two 12.81% 
-DL One 5.66% 
+DL Two 8.83% 
+DL One 0.70% 
+Other 100.00%
+Stock Indices 100.00%
+Annualized Vol 15.87%
+Sharpe (RFR=1%) 0.55
+CAROR 8.83%
+Assets $ 1.3M
+Worst DD -11.70
+S&P  Correlation 0.66

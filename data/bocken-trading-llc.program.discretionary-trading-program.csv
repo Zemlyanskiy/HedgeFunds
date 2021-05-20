@@ -1,18 +1,19 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2021 4.50 4.50 0.00 2020 -0.58 -0.11 0.64 1.73 -0.78 -0.98 -0.77 5.46 1.83 0.66 
-6.87 8.40 24.13 -2.51 2019 -0.65 -1.08 0.35 0.11 2.54 -1.22 -1.04 -1.38 -0.27 -2.30 
--1.01 2.15 -3.84 -7.02 2018 1.63 2.67 0.43 2.51 -1.71 -3.67 1.71 -1.24 -0.72 0.64 
--1.31 -2.20 -1.47 -8.28 2017 -0.25 -1.14 -1.21 -0.81 -0.05 4.34 -1.44 -0.70 -0.07 -0.82 
--2.36 -1.03 -5.54 -6.27 2016 0.34 -0.85 -2.98 7.05 3.01 6.56 -9.88 -2.49 -2.23 -0.23 
--3.79 -2.60 -8.89 -19.67 2015 -5.32 -3.57 -0.28 -2.12 -1.19 8.80 -6.17 -1.84 -0.05 -2.00 
--1.23 -0.06 -14.68 -14.68 2014 0.97 3.46 0.75 2.37 -2.16 -3.50 4.78 6.83 4.43 -3.87 
-1.41 1.74 17.94 -5.58 2013 -1.09 5.47 -1.10 -1.51 -1.86 -4.20 7.92 9.16 2.28 -1.48 
-4.04 -2.22 15.37 -8.42 2012 -0.35 5.26 8.56 9.33 -11.12 13.89 18.60 4.55 -9.06 -4.91 
--1.08 1.37 35.50 -14.46 2011 -1.40 4.11 -0.99 -3.32 2.76 -1.55 -0.59 -4.28 
-Program / Index Jan Qtr YTD 1yr 3yr 5yr 10yr Since7/2011 
-Discretionary Trading Program 4.50 21.06 4.50 30.48 20.93 5.40 - 65.38 
-S&P 500 -1.11 13.59 -1.11 15.15 31.52 89.48 - 184.45 
-+/- S&P 500 5.61 7.47 5.61 15.32 -10.60 -84.08 - -119.08 
+2021 4.50 0.55 -3.33 12.04 13.81 -3.33 2020 -0.58 -0.11 0.64 1.73 -0.78 -0.98 -0.77 
+5.46 1.83 0.66 6.87 8.40 24.13 -2.51 2019 -0.65 -1.08 0.35 0.11 2.54 -1.22 -1.04 
+-1.38 -0.27 -2.30 -1.01 2.15 -3.84 -7.02 2018 1.63 2.67 0.43 2.51 -1.71 -3.67 1.71 
+-1.24 -0.72 0.64 -1.31 -2.20 -1.47 -8.28 2017 -0.25 -1.14 -1.21 -0.81 -0.05 4.34 -1.44 
+-0.70 -0.07 -0.82 -2.36 -1.03 -5.54 -6.27 2016 0.34 -0.85 -2.98 7.05 3.01 6.56 -9.88 
+-2.49 -2.23 -0.23 -3.79 -2.60 -8.89 -19.67 2015 -5.32 -3.57 -0.28 -2.12 -1.19 8.80 -6.17 
+-1.84 -0.05 -2.00 -1.23 -0.06 -14.68 -14.68 2014 0.97 3.46 0.75 2.37 -2.16 -3.50 4.78 
+6.83 4.43 -3.87 1.41 1.74 17.94 -5.58 2013 -1.09 5.47 -1.10 -1.51 -1.86 -4.20 7.92 
+9.16 2.28 -1.48 4.04 -2.22 15.37 -8.42 2012 -0.35 5.26 8.56 9.33 -11.12 13.89 18.60 
+4.55 -9.06 -4.91 -1.08 1.37 35.50 -14.46 2011 -1.40 4.11 -0.99 -3.32 2.76 -1.55 -0.59 
+-4.28 
+Program / Index Apr Qtr YTD 1yr 3yr 5yr 10yr Since7/2011 
+Discretionary Trading Program 12.04 8.90 13.81 38.94 24.59 11.47 - 80.10 
+S&P 500 5.24 16.22 14.93 48.22 63.01 106.89 - 230.60 
++/- S&P 500 6.80 -7.32 -1.12 -9.28 -38.41 -95.42 - -150.50 
 Type Managed Account 
 Minimum Investment $ 100k 
 Trading Level Incremental Increase $ 100k 
@@ -26,8 +27,8 @@ Subscription Frequency Daily
 Redemption Frequency Daily 
 Investor Requirements Any Investor 
 Lock-up Period 0 
-Trading Frequency 1810 RT/YR/$M 
-Avg. Margin-to-Equity 2% 
+Trading Frequency 5052 RT/YR/$M 
+Avg. Margin-to-Equity 15% 
 Targeted Worst DD  
 Worst Peak-to-Trough  
 Sector Focus Agricultural Traders 
@@ -38,116 +39,13 @@ Over 12 Months 0%
 Intraday 0% 
 Discretionary 100.00% 
 Systematic 0% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Depth Length (Mos.) Recovery (Mos.) Peak Valley 
--32.46 62 - 9/1/2014 11/1/2019 
--17.16 10 5 8/1/2012 6/1/2013 
--11.12 1 1 4/1/2012 5/1/2012 
--5.58 2 2 4/1/2014 6/1/2014 
--4.28 2 4 8/1/2011 10/1/2011 
--2.22 1 2 11/1/2013 12/1/2013 
--1.40 1 1 1/1/0001 7/1/2011 
-Run-up Length (Mos.) Start End 
-41.22 3 6/1/2012 8/1/2012 
-30.86 6 8/1/2020 1/1/2021 
-24.93 3 2/1/2012 4/1/2012 
-20.49 3 7/1/2013 9/1/2013 
-17.51 3 4/1/2016 6/1/2016 
-16.90 3 7/1/2014 9/1/2014 
-8.80 1 6/1/2015 6/1/2015 
-7.74 4 1/1/2014 4/1/2014 
-7.42 4 1/1/2018 4/1/2018 
-5.47 1 2/1/2013 2/1/2013 
-4.34 1 6/1/2017 6/1/2017 
-4.11 1 8/1/2011 8/1/2011 
-4.04 1 11/1/2013 11/1/2013 
-3.17 2 11/1/2014 12/1/2014 
-3.01 3 3/1/2019 5/1/2019 
-2.76 1 11/1/2011 11/1/2011 
-2.38 2 3/1/2020 4/1/2020 
-2.15 1 12/1/2019 12/1/2019 
-1.71 1 7/1/2018 7/1/2018 
-1.37 1 12/1/2012 12/1/2012 
-0.64 1 10/1/2018 10/1/2018 
-0.34 1 1/1/2016 1/1/2016 
-Run-up Length (Mos.) Start End 
--22.42 11 7/1/2016 5/1/2017 
--14.46 3 9/1/2012 11/1/2012 
--11.95 5 1/1/2015 5/1/2015 
--11.12 1 5/1/2012 5/1/2012 
--10.95 6 7/1/2015 12/1/2015 
--8.42 4 3/1/2013 6/1/2013 
--7.02 6 6/1/2019 11/1/2019 
--6.27 6 7/1/2017 12/1/2017 
--5.58 2 5/1/2014 6/1/2014 
--5.32 2 5/1/2018 6/1/2018 
--5.14 4 11/1/2018 2/1/2019 
--4.28 2 9/1/2011 10/1/2011 
--3.87 1 10/1/2014 10/1/2014 
--3.80 2 2/1/2016 3/1/2016 
--2.51 3 5/1/2020 7/1/2020 
--2.22 1 12/1/2013 12/1/2013 
--1.95 2 8/1/2018 9/1/2018 
--1.89 2 12/1/2011 1/1/2012 
--1.48 1 10/1/2013 10/1/2013 
--1.40 1 7/1/2011 7/1/2011 
--1.09 1 1/1/2013 1/1/2013 
--0.69 2 1/1/2020 2/1/2020 
- 1 Month 3 Month 6 Month 12 Month 18 Month 2 Year 3 Year 4 Year 5 Year 
-Number of Periods 115.00 113.00 110.00 104.00 98.00 92.00 80.00 68.00 56.00 
-Percent Profitable 40.87 47.79 51.82 42.31 38.78 38.04 37.50 38.24 41.07 
-Average Period Return 0.53 1.47 2.58 4.15 4.16 4.83 4.93 1.31 -0.11 
-Average Gain 4.23 7.06 9.62 18.31 23.01 28.96 36.25 30.48 24.80 
-Average Loss -2.04 -3.65 -5.00 -6.24 -7.78 -9.99 -13.86 -16.74 -17.47 
-Best Period 18.60 41.22 49.98 51.32 45.39 58.40 84.37 75.59 77.35 
-Worst Period -11.12 -14.46 -19.67 -19.05 -24.12 -22.83 -26.58 -28.19 -30.72 
-Standard Deviation 4.25 7.90 11.05 15.07 17.70 22.32 29.92 28.37 26.70 
-Gain Standard Deviation 3.75 7.82 10.89 12.76 13.59 17.88 27.40 25.42 23.82 
-Loss Standard Deviation 2.17 3.00 3.89 4.28 5.05 5.32 6.15 6.95 8.86 
-Sharpe Ratio (1%) 0.10 0.15 0.19 0.21 0.15 0.13 0.06 -0.10 -0.20 
-Average Gain / Average Loss 2.08 1.93 1.92 2.94 2.96 2.90 2.62 1.82 1.42 
-Profit / Loss Ratio 1.44 1.77 2.07 2.15 1.87 1.78 1.57 1.13 0.99 
-Downside Deviation (10%) 2.51 4.13 5.86 9.15 12.69 16.55 24.03 31.27 36.83 
-Downside Deviation (5%) 2.33 3.55 4.66 6.37 8.25 10.31 14.19 17.23 18.61 
-Downside Deviation (0%) 2.28 3.40 4.38 5.73 7.24 8.89 11.97 14.22 14.99 
-Sortino Ratio (10%) 0.05 0.06 0.02 -0.09 -0.27 -0.33 -0.45 -0.65 -0.75 
-Sortino Ratio (5%) 0.19 0.34 0.45 0.49 0.32 0.27 0.13 -0.16 -0.28 
-Sortino Ratio (0%) 0.23 0.43 0.59 0.72 0.57 0.54 0.41 0.09 -0.01 
 Index Award Type Rank Performance Period 
-Agricultural Trader Index Month 2 8.40 12/2020 
+Agricultural Trader Index Month 6 0.55 2/2021 
+IASG CTA Index Month 7 4.50 1/2021 
+Agricultural Trader Index Month 3 4.50 1/2021 
+Discretionary Trader Index Month 4 4.50 1/2021 
 Discretionary Trader Index Month 3 8.40 12/2020 
+Agricultural Trader Index Month 2 8.40 12/2020 
 Agricultural Trader Index Month 2 6.87 11/2020 
 Discretionary Trader Index Month 4 6.87 11/2020 
 Agricultural Trader Index Month 10 0.66 10/2020 
@@ -183,15 +81,15 @@ IASG CTA Index Month 8 7.05 4/2016
 Discretionary Trader Index Month 4 8.80 6/2015 
 Agricultural Trader Index Month 2 8.80 6/2015 
 IASG CTA Index Month 3 8.80 6/2015 
-Agricultural Trader Index Month 5 1.74 12/2014 
 IASG CTA Index 3 Year 7 83.39 2011 - 2014 
+Agricultural Trader Index Month 5 1.74 12/2014 
 Agricultural Trader Index Month 5 1.41 11/2014 
 Agricultural Trader Index Month 8 4.48 9/2014 
 Agricultural Trader Index Month 5 6.83 8/2014 
 Discretionary Trader Index Month 5 6.83 8/2014 
 Agricultural Trader Index Month 8 4.78 7/2014 
-Discretionary Trader Index Month 8 2.37 4/2014 
 Agricultural Trader Index Month 4 2.37 4/2014 
+Discretionary Trader Index Month 8 2.37 4/2014 
 Agricultural Trader Index Month 9 0.75 3/2014 
 Agricultural Trader Index Month 5 3.46 2/2014 
 Agricultural Trader Index Month 9 0.97 1/2014 
@@ -209,13 +107,13 @@ Discretionary Trader Index Month 8 5.44 2/2013
 Agricultural Trader Index Month 4 1.37 12/2012 
 Agricultural Trader Index Month 8 4.55 8/2012 
 IASG CTA Index Month 8 18.60 7/2012 
-Discretionary Trader Index Month 5 18.60 7/2012 
 Agricultural Trader Index Month 4 18.60 7/2012 
+Discretionary Trader Index Month 5 18.60 7/2012 
 Discretionary Trader Index Month 5 13.89 6/2012 
-Agricultural Trader Index Month 4 13.89 6/2012 
 IASG CTA Index Month 8 13.89 6/2012 
-Discretionary Trader Index Month 4 9.33 4/2012 
+Agricultural Trader Index Month 4 13.89 6/2012 
 IASG CTA Index Month 5 9.33 4/2012 
+Discretionary Trader Index Month 4 9.33 4/2012 
 Agricultural Trader Index Month 3 9.33 4/2012 
 Discretionary Trader Index Month 3 8.56 3/2012 
 Agricultural Trader Index Month 2 8.56 3/2012 
@@ -226,4 +124,12 @@ Agricultural Trader Index Month 7 2.76 11/2011
 Agricultural Trader Index Month 9 -0.99 9/2011 
 Agricultural Trader Index Month 6 4.11 8/2011 
 Program Name CAROR 
-Discretionary Trading Program 5.39% 
+Discretionary Trading Program 6.17% 
+Fundamental 100.00%
+Grains 100.00%
+Annualized Vol 15.03%
+Sharpe (RFR=1%) 0.41
+CAROR 6.17%
+Assets $ 1.7M
+Worst DD -32.46
+S&P  Correlation 0.06

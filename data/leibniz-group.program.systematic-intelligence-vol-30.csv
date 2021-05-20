@@ -10,9 +10,9 @@ Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD
 9.36 10.50 -1.92 -0.27 -3.54 0.48 18.36 1.71 0.90 -9.57 7.50 -3.69 30.29 -9.57 2011 
 2.82 -1.14 -7.95 1.02 6.66 0.82 -9.00 
 Program / Index Nov Qtr YTD 1yr 3yr 5yr 10yr Since8/2011 
-Systematic Intelligence Vol 30 25.64 25.64 - 49.63 42.40 156.47 - 665.63 
-S&P 500 10.75 3.47 - 15.30 40.10 72.31 - 201.58 
-+/- S&P 500 14.89 22.17 - 34.33 2.30 84.16 - 464.04 
+Systematic Intelligence Vol 30 25.64 - - 1.49 78.34 170.92 - 665.63 
+S&P 500 10.75 - - 15.30 40.10 72.31 - 250.51 
++/- S&P 500 14.89 - - -13.81 38.24 98.61 - 415.11 
 Type Managed Account 
 "Minimum Investment $ 1,500k "
 Trading Level Incremental Increase $ 100k 
@@ -38,130 +38,29 @@ Over 12 Months 0%
 Intraday 0% 
 Discretionary 0% 
 Systematic 100.00% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Depth Length (Mos.) Recovery (Mos.) Peak Valley 
--34.23 2 8 4/1/2013 6/1/2013 
--32.36 9 17 1/1/2018 10/1/2018 
--24.04 7 - 3/1/2020 10/1/2020 
--13.40 3 1 2/1/2016 5/1/2016 
--13.32 3 2 7/1/2016 10/1/2016 
--9.57 1 5 9/1/2012 10/1/2012 
--9.39 1 4 6/1/2014 7/1/2014 
--9.00 2 3 8/1/2011 10/1/2011 
--7.82 1 1 11/1/2015 12/1/2015 
--5.65 3 2 2/1/2012 5/1/2012 
--3.34 1 2 7/1/2017 8/1/2017 
--3.22 2 1 4/1/2017 6/1/2017 
--0.89 1 1 10/1/2017 11/1/2017 
--0.53 1 1 12/1/2016 1/1/2017 
-Run-up Length (Mos.) Start End 
-88.64 5 11/1/2019 3/1/2020 
-75.89 6 1/1/2014 6/1/2014 
-30.21 4 11/1/2011 2/1/2012 
-25.64 1 11/1/2020 11/1/2020 
-25.62 2 6/1/2016 7/1/2016 
-23.10 3 9/1/2013 11/1/2013 
-22.52 3 2/1/2017 4/1/2017 
-22.16 2 11/1/2014 12/1/2014 
-22.05 4 6/1/2012 9/1/2012 
-22.02 2 11/1/2018 12/1/2018 
-20.91 1 7/1/2013 7/1/2013 
-19.94 3 2/1/2019 4/1/2019 
-18.94 2 1/1/2016 2/1/2016 
-17.89 2 9/1/2017 10/1/2017 
-16.52 2 3/1/2013 4/1/2013 
-15.85 2 11/1/2016 12/1/2016 
-8.96 2 12/1/2017 1/1/2018 
-8.45 2 8/1/2014 9/1/2014 
-7.50 1 11/1/2012 11/1/2012 
-5.76 2 4/1/2018 5/1/2018 
-5.11 1 7/1/2017 7/1/2017 
-4.44 1 6/1/2019 6/1/2019 
-2.82 1 8/1/2011 8/1/2011 
-2.79 1 1/1/2013 1/1/2013 
-2.22 1 7/1/2020 7/1/2020 
-Run-up Length (Mos.) Start End 
--34.23 2 5/1/2013 6/1/2013 
--20.42 2 2/1/2018 3/1/2018 
--19.63 5 6/1/2018 10/1/2018 
--14.85 3 8/1/2020 10/1/2020 
--14.31 4 7/1/2019 10/1/2019 
--13.40 3 3/1/2016 5/1/2016 
--13.32 3 8/1/2016 10/1/2016 
--12.73 3 4/1/2020 6/1/2020 
--9.57 1 10/1/2012 10/1/2012 
--9.39 1 7/1/2014 7/1/2014 
--9.00 2 9/1/2011 10/1/2011 
--8.92 1 1/1/2019 1/1/2019 
--7.82 12 1/1/2015 12/1/2015 
--5.65 3 3/1/2012 5/1/2012 
--5.22 1 12/1/2013 12/1/2013 
--3.69 1 12/1/2012 12/1/2012 
--3.34 1 8/1/2017 8/1/2017 
--3.22 2 5/1/2017 6/1/2017 
--2.55 1 2/1/2013 2/1/2013 
--1.96 1 5/1/2019 5/1/2019 
--1.20 1 10/1/2014 10/1/2014 
--0.89 1 11/1/2017 11/1/2017 
--0.84 1 8/1/2013 8/1/2013 
--0.53 1 1/1/2017 1/1/2017 
- 1 Month 3 Month 6 Month 12 Month 18 Month 2 Year 3 Year 4 Year 5 Year 
-Number of Periods 112.00 110.00 107.00 101.00 95.00 89.00 77.00 65.00 53.00 
-Percent Profitable 50.00 59.09 66.36 84.16 87.37 95.51 100.00 100.00 100.00 
-Average Period Return 2.23 6.27 13.12 27.07 40.46 55.25 93.45 137.70 186.17 
-Average Gain 8.48 15.38 23.39 33.99 46.96 58.28 93.45 137.70 186.17 
-Average Loss -5.00 -8.61 -8.57 -9.67 -4.46 -9.05    
-Best Period 55.02 74.47 77.38 146.05 191.81 191.81 223.08 312.24 339.80 
-Worst Period -21.09 -28.33 -23.96 -26.96 -15.34 -14.58 22.39 35.27 55.87 
-Standard Deviation 9.36 15.36 20.52 30.88 39.84 40.13 48.83 68.96 69.70 
-Gain Standard Deviation 8.62 12.84 17.21 28.59 38.46 38.47 48.83 68.96 69.70 
-Loss Standard Deviation 4.85 6.42 6.56 8.32 4.58 4.06    
-Sharpe Ratio (1%) 0.23 0.39 0.62 0.84 0.98 1.33 1.85 1.94 2.60 
-Average Gain / Average Loss 1.70 1.79 2.73 3.51 10.54 6.44    
-Profit / Loss Ratio 2.11 3.22 6.46 18.67 72.87 136.81    
-Downside Deviation (10%) 4.58 6.70 6.80 6.69 4.71 4.22    
-Downside Deviation (5%) 4.43 6.23 5.89 5.32 2.63 2.46    
-Downside Deviation (0%) 4.39 6.12 5.68 5.01 2.22 2.06    
-Sortino Ratio (10%) 0.40 0.75 1.56 3.30 6.98 10.66    
-Sortino Ratio (5%) 0.48 0.97 2.14 4.90 14.79 21.64    
-Sortino Ratio (0%) 0.51 1.02 2.31 5.40 18.21 26.84    
 Index Award Type Rank Performance Period 
 Program Name CAROR 
-Systematic Intelligence Vol 30 24.37% 
-EVEREST 21.02% 
-GRAB+ 19.85% 
-Systematic Intelligence Vol 20 16.50% 
-SWARM 16.43% 
-Systematic Intelligence Vol 10 7.85% 
+GRAB+ 19.69% 
+EVEREST 18.54% 
+Systematic Intelligence Vol 20 16.54% 
+SWARM 16.19% 
+Systematic Intelligence Vol 10 7.63% 
+Arbitrage 33.00%
+Momentum 33.00%
+Pattern Recognition 34.00%
+VIX 20.00%
+Interest Rates 18.00%
+Currency Futures 16.00%
+Stock Indices 16.00%
+Industrial Metals 5.00%
+Precious Metals 5.00%
+Energy 5.00%
+Grains 5.00%
+Livestock 5.00%
+Softs 5.00%
+Annualized Vol 32.41%
+Sharpe (RFR=1%) 0.79
+CAROR 24.37%
+Assets $ 32.0M
+Worst DD -34.23
+S&P  Correlation -0.04

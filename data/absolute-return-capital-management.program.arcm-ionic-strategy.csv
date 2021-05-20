@@ -1,10 +1,11 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2021 -0.70 -0.70 -0.70 2020 3.03 -0.01 1.40 5.19 0.89 0.73 3.80 0.11 -2.88 -0.59 
-4.28 6.00 23.84 -3.45 2019 -0.21 1.55 -5.52 -3.36 3.85 1.96 -2.03 -8.69 
-Program / Index Jan Qtr YTD 1yr 3yr 5yr 10yr Since7/2019 
-ARCM Ionic Strategy -0.70 9.76 -0.70 19.36 - - - 20.48 
-S&P 500 -1.11 13.59 -1.11 15.15 - - - 24.62 
-+/- S&P 500 0.41 -3.82 0.41 4.20 - - - -4.14 
+2021 -0.70 5.09 1.36 8.09 14.33 -0.70 2020 3.03 -0.01 1.40 5.19 0.89 0.73 3.80 
+0.11 -2.88 -0.59 4.28 6.00 23.84 -3.45 2019 -0.21 1.55 -5.52 -3.36 3.85 1.96 -2.03 
+-8.69 
+Program / Index Apr Qtr YTD 1yr 3yr 5yr 10yr Since7/2019 
+ARCM Ionic Strategy 8.09 15.14 14.33 28.85 - - - 38.71 
+S&P 500 5.24 16.22 14.93 48.22 - - - 44.84 
++/- S&P 500 2.85 -1.09 -0.60 -19.37 - - - -6.13 
 Type Managed Account 
 Minimum Investment $ 500k 
 Trading Level Incremental Increase $ 0k 
@@ -30,76 +31,26 @@ Over 12 Months 0%
 Intraday 0% 
 Discretionary 5.00% 
 Systematic 95.00% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Depth Length (Mos.) Recovery (Mos.) Peak Valley 
--8.69 2 5 8/1/2019 10/1/2019 
--3.45 2 1 8/1/2020 10/1/2020 
--0.70 1 - 12/1/2020 1/1/2021 
--0.21 1 1 1/1/0001 7/1/2019 
-Run-up Length (Mos.) Start End 
-12.64 6 3/1/2020 8/1/2020 
-10.54 2 11/1/2020 12/1/2020 
-9.09 3 11/1/2019 1/1/2020 
-1.55 1 8/1/2019 8/1/2019 
-Run-up Length (Mos.) Start End 
--8.69 2 9/1/2019 10/1/2019 
--3.45 2 9/1/2020 10/1/2020 
--0.70 1 1/1/2021 1/1/2021 
--0.21 1 7/1/2019 7/1/2019 
--0.01 1 2/1/2020 2/1/2020 
- 1 Month 3 Month 6 Month 12 Month 
-Number of Periods 19.00 17.00 14.00 8.00 
-Percent Profitable 63.16 76.47 85.71 100.00 
-Average Period Return 1.03 3.14 7.43 16.46 
-Average Gain 2.73 5.65 8.87 16.46 
-Average Loss -1.90 -5.02 -1.22  
-Best Period 6.00 9.88 16.35 23.84 
-Worst Period -5.52 -7.28 -2.03 9.41 
-Standard Deviation 2.98 5.42 5.69 4.64 
-Gain Standard Deviation 1.90 3.08 4.72 4.64 
-Loss Standard Deviation 2.07 1.68 1.15  
-Sharpe Ratio (1%) 0.32 0.53 1.22 3.33 
-Average Gain / Average Loss 1.44 1.13 7.30  
-Profit / Loss Ratio 2.47 3.66 43.81  
-Downside Deviation (10%) 1.82 3.11 1.48  
-Downside Deviation (5%) 1.67 2.65 0.72  
-Downside Deviation (0%) 1.64 2.53 0.55  
-Sortino Ratio (10%) 0.34 0.62 3.36  
-Sortino Ratio (5%) 0.56 1.09 9.67  
-Sortino Ratio (0%) 0.63 1.24 13.44  
 Index Award Type Rank Performance Period 
 Program Name CAROR 
 ARCM Ionic Strategy - 
 Diversified Momentum Strategy - 
+Momentum 15.00%
+Pattern Recognition 15.00%
+Seasonal/cyclical 5.00%
+Technical 50.00%
+Trend-following 15.00%
+Stock Indices 44.00%
+Interest Rates 25.00%
+Grains 7.00%
+Currency Futures 6.00%
+Energy 6.00%
+Precious Metals 4.00%
+Livestock 4.00%
+Softs 4.00%
+Annualized Vol 11.23%
+Sharpe (RFR=1%) 1.57
+CAROR -
+Assets $ 765k
+Worst DD -8.69
+S&P  Correlation 0.44

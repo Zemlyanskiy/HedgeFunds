@@ -1,10 +1,10 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2021 0.96 0.96 0.00 2020 -0.78 -1.20 -7.27 0.18 10.92 4.93 0.19 1.36 0.41 3.71 
--3.79 7.84 -9.10 
-Program / Index Jan Qtr YTD 1yr 3yr 5yr 10yr Since2/2020 
-Numberline Macro Risk Program 0.96 0.74 0.96 8.87 - - - 8.87 
-S&P 500 -1.11 13.59 -1.11 15.15 - - - 25.73 
-+/- S&P 500 2.07 -12.85 2.07 -6.28 - - - -16.85 
+2021 0.96 10.08 5.32 2.94 20.49 0.00 2020 -0.78 -1.20 -7.27 0.18 10.92 4.93 0.19 
+1.36 0.41 3.71 -3.79 7.84 -9.10 
+Program / Index Apr Qtr YTD 1yr 3yr 5yr 10yr Since2/2020 
+Numberline Macro Risk Program 2.94 19.34 20.49 42.94 - - - 29.94 
+S&P 500 5.24 16.22 14.93 48.22 - - - 46.13 
++/- S&P 500 -2.30 3.12 5.56 -5.28 - - - -16.19 
 Type Managed Account 
 Minimum Investment $ 100k 
 Trading Level Incremental Increase $ 0k 
@@ -30,68 +30,19 @@ Over 12 Months 0%
 Intraday 0% 
 Discretionary 100.00% 
 Systematic 0% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Depth Length (Mos.) Recovery (Mos.) Peak Valley 
--9.10 3 2 1/1/0001 4/1/2020 
--3.79 1 - 11/1/2020 12/1/2020 
-Run-up Length (Mos.) Start End 
-23.30 7 5/1/2020 11/1/2020 
-0.96 1 1/1/2021 1/1/2021 
-Run-up Length (Mos.) Start End 
--9.10 3 2/1/2020 4/1/2020 
--3.79 1 12/1/2020 12/1/2020 
- 1 Month 3 Month 6 Month 
-Number of Periods 12.00 10.00 7.00 
-Percent Profitable 66.67 80.00 100.00 
-Average Period Return 0.80 3.39 10.61 
-Average Gain 2.83 6.41 10.61 
-Average Loss -3.26 -8.66  
-Best Period 10.92 16.61 23.08 
-Worst Period -7.27 -9.10 2.72 
-Standard Deviation 4.49 8.65 7.48 
-Gain Standard Deviation 3.71 6.66 7.48 
-Loss Standard Deviation 2.99 0.62  
-Sharpe Ratio (1%) 0.16 0.36 1.35 
-Average Gain / Average Loss 0.87 0.74  
-Profit / Loss Ratio 1.74 2.96  
-Downside Deviation (10%) 2.59 4.44  
-Downside Deviation (5%) 2.44 3.99  
-Downside Deviation (0%) 2.40 3.88  
-Sortino Ratio (10%) 0.15 0.49  
-Sortino Ratio (5%) 0.29 0.79  
-Sortino Ratio (0%) 0.33 0.88  
 Index Award Type Rank Performance Period 
 Program Name CAROR 
 Numberline Macro Risk Program - 
+Technical 100.00%
+Currency Futures 40.00%
+Stock Indices 40.00%
+Industrial Metals 5.00%
+Precious Metals 5.00%
+Energy 5.00%
+Interest Rates 5.00%
+Annualized Vol 16.46%
+Sharpe (RFR=1%) 1.30
+CAROR -
+Assets $ 444k
+Worst DD -9.10
+S&P  Correlation 0.07

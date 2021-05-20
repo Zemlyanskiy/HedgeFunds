@@ -1,11 +1,12 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2021 -1.10 -1.10 -1.10 2020 0.33 -4.67 -6.51 -0.44 -0.82 3.45 1.54 6.67 -2.83 -3.30 
-3.58 -2.97 -6.57 -12.00 2019 -11.16 2.32 1.26 1.45 -11.66 2.69 2.01 0.45 0.92 3.09 
-2.08 3.01 -5.04 -17.51 2018 -3.06 6.63 1.95 0.18 -8.86 -0.28 -7.66 -11.40 -16.08 
-Program / Index Jan Qtr YTD 1yr 3yr 5yr 10yr Since6/2018 
-LATS (Client) -1.10 -0.60 -1.10 -7.90 - - - -22.26 
-S&P 500 -1.11 13.59 -1.11 15.15 - - - 36.62 
-+/- S&P 500 0.01 -14.19 0.01 -23.05 - - - -58.88 
+2021 -1.10 -2.18 8.34 1.74 6.64 -3.26 2020 0.33 -4.67 -6.51 -0.44 -0.82 3.45 1.54 
+6.67 -2.83 -3.30 3.58 -2.97 -6.57 -12.00 2019 -11.16 2.32 1.26 1.45 -11.66 2.69 2.01 
+0.45 0.92 3.09 2.08 3.01 -5.04 -17.51 2018 -3.06 6.63 1.95 0.18 -8.86 -0.28 -7.66 
+-11.40 -16.08 
+Program / Index Apr Qtr YTD 1yr 3yr 5yr 10yr Since6/2018 
+LATS (Client) 1.74 7.82 6.64 11.91 - - - -16.17 
+S&P 500 5.24 16.22 14.93 48.22 - - - 58.79 
++/- S&P 500 -3.50 -8.40 -8.29 -36.31 - - - -74.97 
 Type Managed Account 
 Minimum Investment $ 100k 
 Trading Level Incremental Increase $ 100k 
@@ -31,81 +32,23 @@ Over 12 Months 0%
 Intraday 0% 
 Discretionary 0% 
 Systematic 100.00% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Depth Length (Mos.) Recovery (Mos.) Peak Valley 
--30.77 8 - 9/1/2018 5/1/2019 
--3.06 1 1 1/1/0001 6/1/2018 
-Run-up Length (Mos.) Start End 
-15.50 8 6/1/2019 1/1/2020 
-12.05 3 6/1/2020 8/1/2020 
-8.90 3 7/1/2018 9/1/2018 
-5.11 3 2/1/2019 4/1/2019 
-3.58 1 11/1/2020 11/1/2020 
-Run-up Length (Mos.) Start End 
--25.44 4 10/1/2018 1/1/2019 
--12.00 4 2/1/2020 5/1/2020 
--11.66 1 5/1/2019 5/1/2019 
--6.04 2 9/1/2020 10/1/2020 
--4.04 2 12/1/2020 1/1/2021 
--3.06 1 6/1/2018 6/1/2018 
- 1 Month 3 Month 6 Month 12 Month 18 Month 
-Number of Periods 32.00 30.00 27.00 21.00 15.00 
-Percent Profitable 56.25 46.67 33.33 28.57 26.67 
-Average Period Return -0.68 -1.98 -4.48 -8.33 -9.79 
-Average Gain 2.42 5.46 7.27 4.27 5.12 
-Average Loss -4.67 -8.50 -10.36 -13.37 -15.22 
-Best Period 6.67 12.05 12.10 8.23 10.84 
-Worst Period -11.66 -18.19 -23.85 -27.02 -28.74 
-Standard Deviation 4.58 8.24 10.92 11.88 12.40 
-Gain Standard Deviation 1.85 2.91 3.71 2.85 4.03 
-Loss Standard Deviation 3.89 5.19 8.14 10.17 9.44 
-Sharpe Ratio (1%) -0.17 -0.27 -0.46 -0.79 -0.91 
-Average Gain / Average Loss 0.52 0.64 0.70 0.32 0.34 
-Profit / Loss Ratio 0.67 0.56 0.35 0.13 0.12 
-Downside Deviation (10%) 4.17 8.00 12.30 17.64 21.10 
-Downside Deviation (5%) 4.00 7.37 10.97 14.71 16.26 
-Downside Deviation (0%) 3.96 7.21 10.64 14.02 15.14 
-Sortino Ratio (10%) -0.26 -0.40 -0.56 -0.76 -0.82 
-Sortino Ratio (5%) -0.19 -0.30 -0.45 -0.63 -0.69 
-Sortino Ratio (0%) -0.17 -0.27 -0.42 -0.59 -0.65 
 Index Award Type Rank Performance Period 
+Stock Index Trader Index Month 1 8.34 3/2021 
+Systematic Trader Index Month 2 8.34 3/2021 
 Stock Index Trader Index Month 8 3.58 11/2020 
 Stock Index Trader Index Month 2 6.67 8/2020 
 Systematic Trader Index Month 8 6.67 8/2020 
 Stock Index Trader Index Month 10 1.54 7/2020 
 Stock Index Trader Index Month 8 3.45 6/2020 
 Program Name CAROR 
-LATS (Proprietary) 5.96% 
-LATS (Client) -9.01% 
+LATS (Proprietary) 6.98% 
+LATS (Client) -5.87% 
+Trend-following 25.00%
+Other 75.00%
+Stock Indices 100.00%
+Annualized Vol 16.13%
+Sharpe (RFR=1%) -0.36
+CAROR -5.87%
+Assets $ 1.1M
+Worst DD -30.77
+S&P  Correlation 0.56

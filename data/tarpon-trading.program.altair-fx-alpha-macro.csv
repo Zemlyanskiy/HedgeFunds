@@ -1,14 +1,14 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2021 2.68 2.68 0.00 2020 1.75 3.48 1.82 1.53 1.06 0.73 1.21 0.90 0.77 3.89 
--0.94 0.82 18.31 -0.94 2019 -1.32 -1.49 1.14 3.04 0.57 0.22 0.89 0.13 0.88 -0.41 
-0.25 0.70 4.62 -2.79 2018 2.48 -0.09 1.43 0.70 2.34 -0.60 0.12 1.90 0.27 1.38 
--1.89 0.30 8.57 -1.89 2017 -1.44 1.64 -2.23 -1.80 1.06 0.22 0.97 0.73 -0.23 2.33 
-1.31 -0.23 2.24 -3.99 2016 1.65 -0.25 1.13 1.81 3.13 -0.23 2.30 -1.89 -1.13 -0.41 
-1.89 1.86 10.17 -3.40 
-Program / Index Jan Qtr YTD 1yr 3yr 5yr 10yr Since1/2016 
-Altair FX Alpha Macro 2.68 2.55 2.68 19.39 34.64 52.90 - 55.43 
-S&P 500 -1.11 13.59 -1.11 15.15 31.52 89.48 - 89.48 
-+/- S&P 500 3.79 -11.04 3.79 4.24 3.12 -36.58 - -34.06 
+2021 2.68 0.86 -0.44 1.01 4.15 -0.44 2020 1.75 3.48 1.82 1.53 1.06 0.73 1.21 
+0.90 0.77 3.89 -0.94 0.82 18.31 -0.94 2019 -1.32 -1.49 1.14 3.04 0.57 0.22 0.89 
+0.13 0.88 -0.41 0.25 0.70 4.62 -2.79 2018 2.48 -0.09 1.43 0.70 2.34 -0.60 0.12 
+1.90 0.27 1.38 -1.89 0.30 8.57 -1.89 2017 -1.44 1.64 -2.23 -1.80 1.06 0.22 0.97 
+0.73 -0.23 2.33 1.31 -0.23 2.24 -3.99 2016 1.65 -0.25 1.13 1.81 3.13 -0.23 2.30 
+-1.89 -1.13 -0.41 1.89 1.86 10.17 -3.40 
+Program / Index Apr Qtr YTD 1yr 3yr 5yr 10yr Since1/2016 
+Altair FX Alpha Macro 1.01 1.43 4.15 13.20 33.83 51.01 - 57.65 
+S&P 500 5.24 16.22 14.93 48.22 63.01 106.89 - 120.23 
++/- S&P 500 -4.23 -14.79 -10.78 -35.02 -29.18 -55.88 - -62.58 
 Type Managed Account 
 "Minimum Investment $ 5,000k "
 Trading Level Incremental Increase $ 0k 
@@ -34,102 +34,22 @@ Over 12 Months 0%
 Intraday 100.00% 
 Discretionary 0% 
 Systematic 100.00% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Depth Length (Mos.) Recovery (Mos.) Peak Valley 
--4.34 4 3 10/1/2018 2/1/2019 
--3.99 2 6 2/1/2017 4/1/2017 
--3.40 3 2 7/1/2016 10/1/2016 
--1.44 1 1 12/1/2016 1/1/2017 
--0.94 1 2 10/1/2020 11/1/2020 
--0.60 1 2 5/1/2018 6/1/2018 
--0.41 1 2 9/1/2019 10/1/2019 
--0.25 1 1 1/1/2016 2/1/2016 
--0.23 1 1 5/1/2016 6/1/2016 
--0.23 1 1 11/1/2017 12/1/2017 
--0.09 1 1 1/1/2018 2/1/2018 
-Run-up Length (Mos.) Start End 
-19.59 12 11/1/2019 10/1/2020 
-7.05 7 3/1/2019 9/1/2019 
-6.18 3 3/1/2016 5/1/2016 
-4.53 3 3/1/2018 5/1/2018 
-3.79 2 11/1/2016 12/1/2016 
-3.71 4 7/1/2018 10/1/2018 
-3.67 2 10/1/2017 11/1/2017 
-3.52 2 12/1/2020 1/1/2021 
-3.01 4 5/1/2017 8/1/2017 
-2.48 1 1/1/2018 1/1/2018 
-2.30 1 7/1/2016 7/1/2016 
-1.65 1 1/1/2016 1/1/2016 
-1.64 1 2/1/2017 2/1/2017 
-0.30 1 12/1/2018 12/1/2018 
-Run-up Length (Mos.) Start End 
--3.99 2 3/1/2017 4/1/2017 
--3.40 3 8/1/2016 10/1/2016 
--2.79 2 1/1/2019 2/1/2019 
--1.89 1 11/1/2018 11/1/2018 
--1.44 1 1/1/2017 1/1/2017 
--0.94 1 11/1/2020 11/1/2020 
--0.60 1 6/1/2018 6/1/2018 
--0.41 1 10/1/2019 10/1/2019 
--0.25 1 2/1/2016 2/1/2016 
--0.23 1 12/1/2017 12/1/2017 
--0.23 1 9/1/2017 9/1/2017 
--0.23 1 6/1/2016 6/1/2016 
--0.09 1 2/1/2018 2/1/2018 
- 1 Month 3 Month 6 Month 12 Month 18 Month 2 Year 3 Year 4 Year 
-Number of Periods 61.00 59.00 56.00 50.00 44.00 38.00 26.00 14.00 
-Percent Profitable 72.13 81.36 83.93 94.00 100.00 100.00 100.00 100.00 
-Average Period Return 0.73 2.14 4.16 8.05 11.61 15.58 24.28 34.47 
-Average Gain 1.40 3.04 5.20 8.60 11.61 15.58 24.28 34.47 
-Average Loss -0.98 -1.79 -1.25 -0.67     
-Best Period 3.89 7.21 10.80 19.59 23.37 28.79 36.00 43.13 
-Worst Period -2.23 -3.40 -2.76 -1.39 4.86 7.71 14.65 27.94 
-Standard Deviation 1.38 2.47 3.53 5.52 5.19 4.21 7.63 4.81 
-Gain Standard Deviation 0.93 1.67 2.81 5.21 5.19 4.21 7.63 4.81 
-Loss Standard Deviation 0.72 1.16 0.98 0.66     
-Sharpe Ratio (1%) 0.47 0.77 1.04 1.28 1.95 3.22 2.78 6.33 
-Average Gain / Average Loss 1.43 1.70 4.17 12.85     
-Profit / Loss Ratio 3.70 7.40 21.76 201.25     
-Downside Deviation (10%) 0.82 1.41 1.62 1.83 0.84 0.45 0.22  
-Downside Deviation (5%) 0.67 1.00 0.79 0.43     
-Downside Deviation (0%) 0.63 0.91 0.62 0.21     
-Sortino Ratio (10%) 0.40 0.65 1.05 1.67 4.78 11.94 38.96  
-Sortino Ratio (5%) 0.97 1.88 4.62 16.40     
-Sortino Ratio (0%) 1.16 2.35 6.68 38.22     
 Index Award Type Rank Performance Period 
+IASG CTA Index Sharpe 5 1.57 2017 - 2020 
 Systematic Trader Index Month 7 3.89 10/2020 
 IASG CTA Index Month 9 3.89 10/2020 
 Program Name CAROR 
-Altair FX Alpha Macro 9.06% 
+Altair FX Alpha Macro 8.91% 
+Arbitrage 5.00%
+Counter-trend 5.00%
+Momentum 5.00%
+Pattern Recognition 75.00%
+Technical 5.00%
+Trend-following 5.00%
+Currency FX 100.00%
+Annualized Vol 4.70%
+Sharpe (RFR=1%) 1.63
+CAROR 8.91%
+Assets $ 155.0M
+Worst DD -4.34
+S&P  Correlation -0.13

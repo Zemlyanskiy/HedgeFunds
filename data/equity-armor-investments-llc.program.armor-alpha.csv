@@ -1,10 +1,10 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2020 6.05 -10.24 17.90 5.65 -0.08 7.96 4.09 5.06 -4.90 -2.39 3.28 34.10 -10.24 2019 
--0.12 2.36 1.74 4.02 -0.12 
-Program / Index Nov Qtr YTD 1yr 3yr 5yr 10yr Since10/2019 
-Armor Alpha 3.28 3.28 - 26.45 - - - 39.49 
-S&P 500 10.75 3.47 - 15.30 - - - 22.28 
-+/- S&P 500 -7.47 -0.19 - 11.15 - - - 17.21 
+2021 1.47 -5.58 0.65 -3.57 -5.58 2020 6.05 -10.24 17.90 5.65 -0.08 7.96 4.09 5.06 
+-4.90 -2.39 3.28 2.31 37.20 -10.24 2019 -0.12 2.36 1.74 4.02 -0.12 
+Program / Index Mar Qtr YTD 1yr 3yr 5yr 10yr Since10/2019 
+Armor Alpha 0.65 -4.97 -3.57 11.58 - - - 37.61 
+S&P 500 4.24 9.21 9.21 58.70 - - - 42.12 
++/- S&P 500 -3.59 -14.17 -12.77 -47.12 - - - -4.50 
 Type Managed Account 
 Minimum Investment $ 250k 
 Trading Level Incremental Increase $ 0k 
@@ -30,74 +30,12 @@ Over 12 Months 0%
 Intraday 0% 
 Discretionary 0% 
 Systematic 100.00% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Depth Length (Mos.) Recovery (Mos.) Peak Valley 
--10.24 1 1 1/1/2020 2/1/2020 
--7.17 2 - 8/1/2020 10/1/2020 
--0.12 1 1 1/1/0001 10/1/2019 
--0.08 1 1 4/1/2020 5/1/2020 
-Run-up Length (Mos.) Start End 
-24.56 2 3/1/2020 4/1/2020 
-18.06 3 6/1/2020 8/1/2020 
-10.44 3 11/1/2019 1/1/2020 
-3.28 1 11/1/2020 11/1/2020 
-Run-up Length (Mos.) Start End 
--10.24 1 2/1/2020 2/1/2020 
--7.17 2 9/1/2020 10/1/2020 
--0.12 1 10/1/2019 10/1/2019 
--0.08 1 5/1/2020 5/1/2020 
- 1 Month 3 Month 6 Month 
-Number of Periods 14.00 12.00 9.00 
-Percent Profitable 64.29 75.00 100.00 
-Average Period Return 2.60 8.46 22.48 
-Average Gain 6.01 12.36 22.48 
-Average Loss -3.55 -3.25  
-Best Period 17.90 24.46 46.94 
-Worst Period -10.24 -4.13 9.51 
-Standard Deviation 6.53 8.92 10.87 
-Gain Standard Deviation 4.86 6.37 10.87 
-Loss Standard Deviation 4.23 0.83  
-Sharpe Ratio (1%) 0.39 0.92 2.02 
-Average Gain / Average Loss 1.69 3.80  
-Profit / Loss Ratio 3.05 11.40  
-Downside Deviation (10%) 3.27 2.27  
-Downside Deviation (5%) 3.13 1.78  
-Downside Deviation (0%) 3.10 1.66  
-Sortino Ratio (10%) 0.67 3.19  
-Sortino Ratio (5%) 0.80 4.60  
-Sortino Ratio (0%) 0.84 5.09  
 Index Award Type Rank Performance Period 
 Program Name CAROR 
 Armor Alpha - 
+Annualized Vol 20.90%
+Sharpe (RFR=1%) 1.08
+CAROR -
+Assets $ 2.2M
+Worst DD -10.24
+S&P  Correlation -0.02

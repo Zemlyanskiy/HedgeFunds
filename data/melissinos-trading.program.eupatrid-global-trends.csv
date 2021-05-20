@@ -1,19 +1,19 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2021 4.07 4.07 0.00 2020 1.40 -4.47 -7.69 0.96 -2.44 -2.21 -3.36 1.52 -0.78 0.89 
-9.70 13.49 5.31 -17.92 2019 -4.04 1.52 4.97 0.46 2.17 -0.71 4.20 8.14 -3.45 -3.35 
--0.93 -0.21 8.33 -7.75 2018 7.96 -7.15 -1.96 -1.65 -2.38 -4.93 0.61 3.76 -0.92 -4.68 
-0.87 -3.50 -13.91 -20.26 2017 -1.79 1.93 -3.77 -0.18 -1.34 0.09 -1.17 -4.05 -5.80 3.17 
--0.21 2.41 -10.57 -15.27 2016 5.16 2.76 -3.81 -2.08 -4.22 4.24 0.67 -0.70 1.56 -2.05 
--0.20 -1.96 -1.12 -9.79 2015 8.88 -4.88 1.60 -7.43 1.07 -1.04 0.49 -6.39 4.97 -10.68 
-7.13 -2.22 -9.99 -21.08 2014 -2.83 6.70 5.26 1.97 -2.82 7.16 -5.94 3.07 8.25 0.99 
-9.16 3.02 38.12 -5.94 2013 1.21 1.91 0.91 0.44 3.63 1.28 -0.40 -1.39 -1.99 0.61 
-1.80 1.95 10.29 -3.74 2012 -2.05 -0.67 -3.42 1.19 9.41 -6.88 6.80 0.30 -1.71 -6.73 
--2.53 -5.81 -12.66 -16.05 2011 -1.19 0.24 8.20 8.67 -9.06 1.17 5.51 9.56 -5.65 -6.21 
-0.00 0.00 9.60 -11.51 
-Program / Index Jan Qtr YTD 1yr 3yr 5yr 10yr Since1/2011 
-Eupatrid Global Trends 4.07 29.57 4.07 8.08 -5.33 -14.06 20.06 18.63 
-S&P 500 -1.11 13.59 -1.11 15.15 31.52 89.48 185.82 185.82 
-+/- S&P 500 5.18 15.98 5.18 -7.07 -36.85 -103.54 -165.77 -167.20 
+2021 4.01 17.65 0.90 9.23 34.87 0.00 2020 1.40 -4.47 -7.69 0.96 -2.44 -2.21 -3.36 
+1.52 -0.78 0.89 9.70 13.49 5.31 -17.92 2019 -4.04 1.52 4.97 0.46 2.17 -0.71 4.20 
+8.14 -3.45 -3.35 -0.93 -0.21 8.33 -7.75 2018 7.96 -7.15 -1.96 -1.65 -2.38 -4.93 0.61 
+3.76 -0.92 -4.68 0.87 -3.50 -13.91 -20.26 2017 -1.79 1.93 -3.77 -0.18 -1.34 0.09 -1.17 
+-4.05 -5.80 3.17 -0.21 2.41 -10.57 -15.27 2016 5.16 2.76 -3.81 -2.08 -4.22 4.24 0.67 
+-0.70 1.56 -2.05 -0.20 -1.96 -1.12 -9.79 2015 8.88 -4.88 1.60 -7.43 1.07 -1.04 0.49 
+-6.39 4.97 -10.68 7.13 -2.22 -9.99 -21.08 2014 -2.83 6.70 5.26 1.97 -2.82 7.16 -5.94 
+3.07 8.25 0.99 9.16 3.02 38.12 -5.94 2013 1.21 1.91 0.91 0.44 3.63 1.28 -0.40 
+-1.39 -1.99 0.61 1.80 1.95 10.29 -3.74 2012 -2.05 -0.67 -3.42 1.19 9.41 -6.88 6.80 
+0.30 -1.71 -6.73 -2.53 -5.81 -12.66 -16.05 2011 -1.19 0.24 8.20 8.67 -9.06 1.17 5.51 
+9.56 -5.65 -6.21 0.00 0.00 9.60 -11.51 
+Program / Index Apr Qtr YTD 1yr 3yr 5yr 10yr Since1/2011 
+Eupatrid Global Trends 9.23 29.67 34.87 57.32 37.04 15.07 32.00 53.73 
+S&P 500 5.24 16.22 14.93 48.22 63.01 106.89 213.29 232.20 
++/- S&P 500 3.99 13.44 19.94 9.10 -25.97 -91.82 -181.29 -178.47 
 Type Fund 
 Minimum Investment $ 50k 
 Trading Level Incremental Increase $ 0k 
@@ -39,131 +39,21 @@ Over 12 Months 10.00%
 Intraday 0% 
 Discretionary 1.00% 
 Systematic 99.00% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Depth Length (Mos.) Recovery (Mos.) Peak Valley 
--43.26 66 - 1/1/2015 7/1/2020 
--22.71 16 21 8/1/2011 12/1/2012 
--9.06 1 3 4/1/2011 5/1/2011 
--1.19 1 2 1/1/0001 1/1/2011 
-Run-up Length (Mos.) Start End 
-37.97 6 8/1/2014 1/1/2015 
-30.72 4 10/1/2020 1/1/2021 
-17.86 3 2/1/2011 4/1/2011 
-16.95 3 6/1/2011 8/1/2011 
-14.52 3 2/1/2014 4/1/2014 
-12.68 2 7/1/2019 8/1/2019 
-10.71 2 4/1/2012 5/1/2012 
-10.56 2 12/1/2017 1/1/2018 
-9.72 6 1/1/2013 6/1/2013 
-9.38 4 2/1/2019 5/1/2019 
-8.06 2 1/1/2016 2/1/2016 
-7.16 1 6/1/2014 6/1/2014 
-7.13 1 11/1/2015 11/1/2015 
-7.12 2 7/1/2012 8/1/2012 
-4.97 1 9/1/2015 9/1/2015 
-4.94 2 6/1/2016 7/1/2016 
-4.42 3 10/1/2013 12/1/2013 
-4.39 2 7/1/2018 8/1/2018 
-3.17 1 10/1/2017 10/1/2017 
-1.93 1 2/1/2017 2/1/2017 
-1.60 1 3/1/2015 3/1/2015 
-1.56 1 9/1/2016 9/1/2016 
-1.52 1 8/1/2020 8/1/2020 
-1.40 1 1/1/2020 1/1/2020 
-1.07 1 5/1/2015 5/1/2015 
-0.96 1 4/1/2020 4/1/2020 
-0.87 1 11/1/2018 11/1/2018 
-0.49 1 7/1/2015 7/1/2015 
-0.09 1 6/1/2017 6/1/2017 
-Run-up Length (Mos.) Start End 
--16.91 5 2/1/2018 6/1/2018 
--16.85 7 9/1/2011 3/1/2012 
--15.84 4 9/1/2012 12/1/2012 
--11.82 2 2/1/2020 3/1/2020 
--10.68 1 10/1/2015 10/1/2015 
--10.67 3 7/1/2017 9/1/2017 
--9.79 3 3/1/2016 5/1/2016 
--9.06 1 5/1/2011 5/1/2011 
--7.80 3 5/1/2020 7/1/2020 
--7.75 4 9/1/2019 12/1/2019 
--7.43 1 4/1/2015 4/1/2015 
--7.40 2 12/1/2018 1/1/2019 
--6.88 1 6/1/2012 6/1/2012 
--6.39 1 8/1/2015 8/1/2015 
--5.94 1 7/1/2014 7/1/2014 
--5.88 4 10/1/2016 1/1/2017 
--5.56 2 9/1/2018 10/1/2018 
--5.23 3 3/1/2017 5/1/2017 
--4.88 1 2/1/2015 2/1/2015 
--3.74 3 7/1/2013 9/1/2013 
--2.83 1 1/1/2014 1/1/2014 
--2.82 1 5/1/2014 5/1/2014 
--2.22 1 12/1/2015 12/1/2015 
--1.19 1 1/1/2011 1/1/2011 
--1.04 1 6/1/2015 6/1/2015 
--0.78 1 9/1/2020 9/1/2020 
--0.71 1 6/1/2019 6/1/2019 
--0.70 1 8/1/2016 8/1/2016 
--0.21 1 11/1/2017 11/1/2017 
- 1 Month 3 Month 6 Month 12 Month 18 Month 2 Year 3 Year 4 Year 5 Year 
-Number of Periods 121.00 119.00 116.00 110.00 104.00 98.00 86.00 74.00 62.00 
-Percent Profitable 49.59 46.22 44.83 36.36 33.65 37.76 50.00 52.70 53.23 
-Average Period Return 0.24 0.58 0.35 -0.19 0.39 0.60 1.89 2.69 0.28 
-Average Gain 3.72 7.28 9.73 14.73 20.66 22.78 22.95 24.62 16.78 
-Average Loss -3.29 -5.18 -7.28 -8.72 -9.90 -12.85 -19.18 -21.76 -18.49 
-Best Period 13.49 29.57 37.97 54.77 51.77 63.88 48.98 60.68 43.20 
-Worst Period -10.68 -14.37 -17.92 -23.48 -21.28 -25.08 -31.37 -39.61 -36.92 
-Standard Deviation 4.50 8.00 10.73 14.06 17.47 20.85 23.76 25.85 21.00 
-Gain Standard Deviation 3.26 6.38 8.58 12.15 15.02 17.08 13.67 12.21 10.24 
-Loss Standard Deviation 2.44 3.45 4.35 5.09 5.55 6.36 6.83 10.08 12.46 
-Sharpe Ratio (1%) 0.04 0.04 -0.01 -0.08 -0.06 -0.07 -0.05 -0.05 -0.23 
-Average Gain / Average Loss 1.13 1.41 1.34 1.69 2.09 1.77 1.20 1.13 0.91 
-Profit / Loss Ratio 1.15 1.21 1.09 0.97 1.06 1.08 1.20 1.26 1.03 
-Downside Deviation (10%) 3.09 5.33 7.93 11.69 14.97 19.03 25.48 30.83 34.28 
-Downside Deviation (5%) 2.90 4.71 6.61 8.74 10.31 12.74 16.42 19.02 18.20 
-Downside Deviation (0%) 2.85 4.55 6.29 8.04 9.22 11.29 14.38 16.45 15.17 
-Sortino Ratio (10%) -0.05 -0.12 -0.27 -0.44 -0.48 -0.51 -0.54 -0.61 -0.80 
-Sortino Ratio (5%) 0.05 0.07 -0.02 -0.14 -0.11 -0.11 -0.07 -0.07 -0.26 
-Sortino Ratio (0%) 0.08 0.13 0.05 -0.02 0.04 0.05 0.13 0.16 0.02 
 Index Award Type Rank Performance Period 
-Trend Following Strategy Index Month 9 13.54 12/2020 
+Trend Following Strategy Index Month 4 17.65 2/2021 
+IASG CTA Index Month 5 17.65 2/2021 
+Systematic Trader Index Month 5 17.65 2/2021 
+Diversified Trader Index Month 5 17.65 2/2021 
+Systematic Trader Index Month 5 4.07 1/2021 
+Diversified Trader Index Month 4 4.07 1/2021 
+Trend Following Strategy Index Month 3 4.07 1/2021 
+IASG CTA Index Month 10 4.07 1/2021 
 Systematic Trader Index Month 9 13.54 12/2020 
 Diversified Trader Index Month 9 13.54 12/2020 
 IASG CTA Index Month 10 13.54 12/2020 
-Diversified Trader Index Month 10 9.70 11/2020 
+Trend Following Strategy Index Month 9 13.54 12/2020 
 Trend Following Strategy Index Month 8 9.70 11/2020 
+Diversified Trader Index Month 10 9.70 11/2020 
 Trend Following Strategy Index Month 8 0.00 9/2020 
 Trend Following Strategy Index Month 8 1.71 8/2020 
 Trend Following Strategy Index Month 8 2.91 4/2020 
@@ -176,16 +66,32 @@ Trend Following Strategy Index Month 9 4.20 7/2019
 Trend Following Strategy Index Month 7 1.56 9/2016 
 Trend Following Strategy Index Month 6 7.16 6/2014 
 Diversified Trader Index Month 6 7.16 6/2014 
-IASG CTA Index Month 10 7.16 6/2014 
 Systematic Trader Index Month 9 7.16 6/2014 
+IASG CTA Index Month 10 7.16 6/2014 
 IASG CTA Index Month 10 5.26 3/2014 
+Systematic Trader Index Month 8 5.26 3/2014 
 Diversified Trader Index Month 7 5.26 3/2014 
 Trend Following Strategy Index Month 3 5.26 3/2014 
-Systematic Trader Index Month 8 5.26 3/2014 
 Trend Following Strategy Index Month 4 1.17 6/2011 
 Systematic Trader Index Month 4 8.20 3/2011 
+Trend Following Strategy Index Month 2 8.20 3/2011 
 Diversified Trader Index Month 5 8.20 3/2011 
 IASG CTA Index Month 9 8.20 3/2011 
-Trend Following Strategy Index Month 2 8.20 3/2011 
 Program Name CAROR 
-Eupatrid Global Trends 1.71% 
+Eupatrid Global Trends 4.25% 
+Trend-following 100.00%
+SSF 29.00%
+Currency Futures 20.00%
+Grains 13.00%
+Interest Rates 10.00%
+Softs 10.00%
+Livestock 6.00%
+Energy 5.00%
+Industrial Metals 4.00%
+Precious Metals 3.00%
+Annualized Vol 16.56%
+Sharpe (RFR=1%) 0.27
+CAROR 4.25%
+Assets $ 5.0M
+Worst DD -43.26
+S&P  Correlation 0.10

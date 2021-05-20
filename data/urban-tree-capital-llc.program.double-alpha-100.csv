@@ -1,9 +1,10 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2021 1.36 1.36 0.00 2020 12.56 1.03 1.28 -2.38 -0.10 1.75 0.51 14.87 -2.48 
-Program / Index Jan Qtr YTD 1yr 3yr 5yr 10yr Since6/2020 
-Double Alpha 100 1.36 3.66 1.36 - - - - 16.43 
-S&P 500 -1.11 13.59 -1.11 - - - - 19.80 
-+/- S&P 500 2.47 -9.93 2.47 - - - - -3.37 
+2021 1.36 1.03 -2.86 6.15 5.59 -2.86 2020 12.56 1.03 1.28 -2.38 -0.10 1.75 0.51 
+14.87 -2.48 
+Program / Index Apr Qtr YTD 1yr 3yr 5yr 10yr Since6/2020 
+Double Alpha 100 6.15 4.18 5.59 - - - - 21.29 
+S&P 500 5.24 16.22 14.93 - - - - 39.24 
++/- S&P 500 0.91 -12.05 -9.34 - - - - -17.95 
 Type Managed Account 
 Minimum Investment $ 100k 
 Trading Level Incremental Increase $ 100k 
@@ -29,66 +30,12 @@ Over 12 Months 50.00%
 Intraday 50.00% 
 Discretionary 0% 
 Systematic 100.00% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Depth Length (Mos.) Recovery (Mos.) Peak Valley 
--2.48 2 3 8/1/2020 10/1/2020 
-Run-up Length (Mos.) Start End 
-15.17 3 6/1/2020 8/1/2020 
-3.66 3 11/1/2020 1/1/2021 
-Run-up Length (Mos.) Start End 
--2.48 2 9/1/2020 10/1/2020 
- 1 Month 3 Month 
-Number of Periods 8.00 6.00 
-Percent Profitable 75.00 50.00 
-Average Period Return 2.00 3.15 
-Average Gain 3.08 7.00 
-Average Loss -1.24 -0.70 
-Best Period 12.56 15.18 
-Worst Period -2.38 -1.23 
-Standard Deviation 4.46 6.18 
-Gain Standard Deviation 4.66 7.12 
-Loss Standard Deviation 1.61 0.56 
-Sharpe Ratio (1%) 0.43 0.47 
-Average Gain / Average Loss 2.49 9.94 
-Profit / Loss Ratio 7.46 9.94 
-Downside Deviation (10%) 1.00 1.40 
-Downside Deviation (5%) 0.87 0.75 
-Downside Deviation (0%) 0.84 0.59 
-Sortino Ratio (10%) 1.59 1.37 
-Sortino Ratio (5%) 2.20 3.88 
-Sortino Ratio (0%) 2.38 5.30 
 Index Award Type Rank Performance Period 
 Program Name CAROR 
 Double Alpha 100 - 
+Annualized Vol 14.73%
+Sharpe (RFR=1%) 1.44
+CAROR -
+Assets $ 319k
+Worst DD -2.86
+S&P  Correlation 0.13

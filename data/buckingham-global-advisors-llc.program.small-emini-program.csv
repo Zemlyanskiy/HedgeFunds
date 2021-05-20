@@ -1,11 +1,11 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2020 1.31 -10.11 -3.56 0.71 0.31 1.35 1.66 1.37 1.26 -1.78 1.32 1.91 -4.84 -13.31 
-2019 1.88 1.75 1.53 1.20 -1.32 1.87 1.03 1.29 1.23 0.94 1.20 1.51 15.01 -1.32 
-2018 -2.54 -2.54 -2.54 
-Program / Index Dec Qtr YTD 1yr 3yr 5yr 10yr Since12/2018 
-Small Emini Program 1.91 3.26 - -6.07 - - - 6.67 
-S&P 500 3.71 11.69 - 16.26 - - - 48.15 
-+/- S&P 500 -1.80 -8.43 - -22.33 - - - -41.48 
+2021 -0.84 0.22 2.52 1.29 3.20 -0.84 2020 1.31 -10.11 -3.56 0.71 0.31 1.35 1.66 
+1.37 1.26 -1.78 1.32 1.91 -4.84 -13.31 2019 1.88 1.75 1.53 1.20 -1.32 1.87 1.03 
+1.29 1.23 0.94 1.20 1.51 15.01 -1.32 2018 -2.54 -2.54 -2.54 
+Program / Index Apr Qtr YTD 1yr 3yr 5yr 10yr Since12/2018 
+Small Emini Program 1.29 4.07 3.20 11.03 - - - 10.08 
+S&P 500 5.24 16.22 14.93 48.22 - - - 72.19 
++/- S&P 500 -3.95 -12.15 -11.73 -37.19 - - - -62.11 
 Type Managed Account 
 Minimum Investment $ 60k 
 Trading Level Incremental Increase $ 60k 
@@ -31,79 +31,25 @@ Over 12 Months 0%
 Intraday 0% 
 Discretionary 20.00% 
 Systematic 80.00% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Depth Length (Mos.) Recovery (Mos.) Peak Valley 
--13.31 2 - 1/1/2020 3/1/2020 
--2.54 1 2 1/1/0001 12/1/2018 
--1.32 1 1 4/1/2019 5/1/2019 
-Run-up Length (Mos.) Start End 
-10.86 8 6/1/2019 1/1/2020 
-6.84 6 4/1/2020 9/1/2020 
-6.51 4 1/1/2019 4/1/2019 
-3.26 2 11/1/2020 12/1/2020 
-Run-up Length (Mos.) Start End 
--13.31 2 2/1/2020 3/1/2020 
--2.54 1 12/1/2018 12/1/2018 
--1.78 1 10/1/2020 10/1/2020 
--1.32 1 5/1/2019 5/1/2019 
- 1 Month 3 Month 6 Month 12 Month 18 Month 
-Number of Periods 25.00 23.00 20.00 14.00 8.00 
-Percent Profitable 80.00 82.61 70.00 28.57 75.00 
-Average Period Return 0.29 0.89 1.32 0.17 1.92 
-Average Gain 1.33 2.92 5.62 10.21 2.73 
-Average Loss -3.86 -8.75 -8.71 -3.84 -0.51 
-Best Period 1.91 5.25 7.80 15.01 3.42 
-Worst Period -10.11 -12.69 -10.08 -5.32 -0.55 
-Standard Deviation 2.60 5.02 7.00 7.33 1.56 
-Gain Standard Deviation 0.40 1.45 1.84 6.44 0.51 
-Loss Standard Deviation 3.59 4.72 2.16 1.06 0.05 
-Sharpe Ratio (1%) 0.08 0.13 0.12 -0.11 0.27 
-Average Gain / Average Loss 0.34 0.33 0.65 2.66 5.32 
-Profit / Loss Ratio 1.38 1.59 1.51 1.06 15.96 
-Downside Deviation (10%) 2.39 4.50 6.22 7.60 5.86 
-Downside Deviation (5%) 2.28 4.12 5.16 4.18 1.01 
-Downside Deviation (0%) 2.25 4.03 4.89 3.36 0.26 
-Sortino Ratio (10%) -0.05 -0.07 -0.18 -0.64 -0.97 
-Sortino Ratio (5%) 0.09 0.16 0.16 -0.20 0.41 
-Sortino Ratio (0%) 0.13 0.22 0.27 0.05 7.46 
 Index Award Type Rank Performance Period 
-Option Strategy Index Month 3 1.91 12/2020 
+Option Strategy Index Month 2 2.52 3/2021 
+Stock Index Trader Index Month 9 2.52 3/2021 
+Option Strategy Index Month 8 0.22 2/2021 
+Option Strategy Index Month 10 -0.84 1/2021 
 Stock Index Trader Index Month 9 1.91 12/2020 
+Option Strategy Index Month 3 1.91 12/2020 
 Option Strategy Index Month 2 1.32 11/2020 
 Option Strategy Index Month 3 1.26 9/2020 
 Stock Index Trader Index Month 10 1.26 9/2020 
 Program Name CAROR 
-Weekly Emini Program 12.15% 
-Small Emini Program 3.15% 
+Weekly Emini Program 12.21% 
+Small Emini Program 4.05% 
+Option-spreads 30.00%
+Option-writing 70.00%
+Stock Indices 100.00%
+Annualized Vol 8.53%
+Sharpe (RFR=1%) 0.39
+CAROR 4.05%
+Assets $ 8.6M
+Worst DD -13.31
+S&P  Correlation 0.67

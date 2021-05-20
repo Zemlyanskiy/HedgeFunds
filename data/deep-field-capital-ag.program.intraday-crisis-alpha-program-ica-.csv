@@ -1,12 +1,13 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2021 -3.49 -3.49 -3.49 2020 4.35 4.62 0.16 4.37 2.36 7.58 -2.06 -1.68 -0.57 -7.55 
--1.31 -2.20 7.37 -14.56 2019 1.13 2.74 1.03 -1.34 -2.27 0.25 -2.13 1.40 0.18 -2.10 
-2.52 -1.73 -0.50 -5.92 2018 -0.09 8.00 4.74 2.33 1.17 2.28 -0.09 -0.59 -0.08 1.49 
--1.29 1.00 20.17 -1.29 2017 0.70 -0.20 -0.08 1.69 -0.83 -0.09 -0.06 -0.02 1.10 -1.00 
-Program / Index Jan Qtr YTD 1yr 3yr 5yr 10yr Since5/2017 
-Intraday Crisis Alpha Program (ICA) -3.49 -6.85 -3.49 -0.70 24.00 - - 25.25 
-S&P 500 -1.11 13.59 -1.11 15.15 31.52 - - 52.44 
-+/- S&P 500 -2.38 -20.44 -2.38 -15.85 -7.52 - - -27.19 
+2021 -3.49 3.12 -0.19 -0.67 -3.49 2020 4.35 4.62 0.16 4.37 2.36 7.58 -2.06 -1.68 
+-0.57 -7.55 -1.31 -2.20 7.37 -14.56 2019 1.13 2.74 1.03 -1.34 -2.27 0.25 -2.13 1.40 
+0.18 -2.10 2.52 -1.73 -0.50 -5.92 2018 -0.09 8.00 4.74 2.33 1.17 2.28 -0.09 -0.59 
+-0.08 1.49 -1.29 1.00 20.17 -1.29 2017 0.70 -0.20 -0.08 1.69 -0.83 -0.09 -0.06 -0.02 
+1.10 -1.00 
+Program / Index Mar Qtr YTD 1yr 3yr 5yr 10yr Since5/2017 
+Intraday Crisis Alpha Program (ICA) -0.19 2.92 -0.67 -6.55 10.26 - - 28.91 
+S&P 500 4.24 9.21 9.21 58.70 55.31 - - 77.17 
++/- S&P 500 -4.43 -6.28 -9.87 -65.25 -45.05 - - -48.26 
 Type Managed Account 
 "Minimum Investment $ 1,500k "
 Trading Level Incremental Increase $ 0k 
@@ -32,87 +33,8 @@ Over 12 Months 0%
 Intraday 100.00% 
 Discretionary 0% 
 Systematic 100.00% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Depth Length (Mos.) Recovery (Mos.) Peak Valley 
--17.55 7 - 6/1/2020 1/1/2021 
--5.92 7 4 3/1/2019 10/1/2019 
--1.29 1 2 10/1/2018 11/1/2018 
--1.09 5 1 8/1/2017 1/1/2018 
--0.76 3 1 6/1/2018 9/1/2018 
--0.28 2 1 5/1/2017 7/1/2017 
-Run-up Length (Mos.) Start End 
-25.67 6 1/1/2020 6/1/2020 
-19.78 5 2/1/2018 6/1/2018 
-6.02 4 12/1/2018 3/1/2019 
-2.52 1 11/1/2019 11/1/2019 
-1.69 1 8/1/2017 8/1/2017 
-1.58 2 8/1/2019 9/1/2019 
-1.49 1 10/1/2018 10/1/2018 
-0.70 1 5/1/2017 5/1/2017 
-0.25 1 6/1/2019 6/1/2019 
-Run-up Length (Mos.) Start End 
--17.55 7 7/1/2020 1/1/2021 
--3.58 2 4/1/2019 5/1/2019 
--2.13 1 7/1/2019 7/1/2019 
--2.10 1 10/1/2019 10/1/2019 
--1.73 1 12/1/2019 12/1/2019 
--1.29 1 11/1/2018 11/1/2018 
--1.09 5 9/1/2017 1/1/2018 
--0.76 3 7/1/2018 9/1/2018 
--0.28 2 6/1/2017 7/1/2017 
- 1 Month 3 Month 6 Month 12 Month 18 Month 2 Year 
-Number of Periods 45.00 43.00 40.00 34.00 28.00 22.00 
-Percent Profitable 48.89 62.79 77.50 88.24 96.43 100.00 
-Average Period Return 0.54 1.95 4.90 11.29 14.36 18.69 
-Average Gain 2.55 5.17 8.07 12.90 14.90 18.69 
-Average Loss -1.38 -3.49 -6.03 -0.73 -0.09  
-Best Period 8.00 15.75 25.67 23.32 25.93 25.81 
-Worst Period -7.55 -10.77 -15.81 -1.54 -0.09 1.95 
-Standard Deviation 2.77 5.97 8.97 8.35 8.06 6.14 
-Gain Standard Deviation 2.21 4.56 7.11 7.53 7.69 6.14 
-Loss Standard Deviation 1.66 3.68 5.37 0.58   
-Sharpe Ratio (1%) 0.16 0.28 0.49 1.23 1.59 2.72 
-Average Gain / Average Loss 1.84 1.48 1.34 17.57 162.50  
-Profit / Loss Ratio 1.76 2.50 4.61 131.78 4387.56  
-Downside Deviation (10%) 1.73 3.62 4.76 2.28 2.13 1.91 
-Downside Deviation (5%) 1.57 3.15 3.92 0.62 0.30 0.01 
-Downside Deviation (0%) 1.53 3.05 3.74 0.30 0.02  
-Sortino Ratio (10%) 0.08 0.20 0.51 2.76 3.17 4.41 
-Sortino Ratio (5%) 0.29 0.54 1.12 16.63 42.64 1237.99 
-Sortino Ratio (0%) 0.35 0.64 1.31 37.09 828.98  
 Index Award Type Rank Performance Period 
+Stock Index Trader Index Month 6 3.12 2/2021 
 Stock Index Trader Index Month 2 7.58 6/2020 
 Systematic Trader Index Month 3 7.58 6/2020 
 IASG CTA Index Month 4 7.58 6/2020 
@@ -125,6 +47,14 @@ Stock Index Trader Index Month 5 2.55 11/2019
 Stock Index Trader Index Month 10 1.39 8/2019 
 Stock Index Trader Index Month 5 2.74 2/2019 
 Program Name CAROR 
-Systematic Volatility Arbitrage Program (VolArb) 8.96% 
-Intraday Crisis Alpha Program (ICA) 6.19% 
+Systematic Volatility Arbitrage Program (VolArb) 9.65% 
+Intraday Crisis Alpha Program (ICA) 6.70% 
 Intraday Convexity Capture (ICC) - 
+Momentum 100.00%
+Stock Indices 100.00%
+Annualized Vol 9.48%
+Sharpe (RFR=1%) 0.63
+CAROR 6.70%
+Assets $ 40.0M
+Worst DD -17.55
+S&P  Correlation -0.06

@@ -1,14 +1,15 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2020 3.82 -2.75 -10.93 -0.72 -0.58 0.60 -0.80 0.55 -2.83 2.23 3.34 5.74 -3.32 -16.64 
-2019 1.99 1.99 -1.64 5.60 -0.21 14.82 -2.71 3.81 -0.88 1.76 0.16 -2.37 23.32 -2.71 
-2018 -0.40 -6.69 -1.20 3.71 4.55 -0.19 2.50 -1.64 -2.07 -1.71 -0.72 1.16 -3.15 -8.18 
-2017 -1.68 4.51 2.09 5.23 2.81 -1.82 2.30 2.05 -0.50 3.67 2.65 1.64 25.19 -1.82 
-2016 0.44 -0.39 -1.26 1.44 1.30 -3.21 1.36 -1.69 0.96 -0.18 -1.74 2.56 -0.57 -4.49 
-2015 7.08 -1.70 1.25 -5.63 0.23 -3.93 3.82 -3.14 0.17 1.70 0.93 -1.08 -0.95 -9.56 
-Program / Index Dec Qtr YTD 1yr 3yr 5yr 10yr Since1/2015 
-"Multi-Strategy (Client + Proprietary, Please see Strategy Summary) 5.74 9.27 - -6.87 15.94 43.11 - 42.38 "
-S&P 500 3.71 11.69 - 16.26 40.48 81.90 - 84.28 
-+/- S&P 500 2.03 -2.42 - -23.13 -24.54 -38.79 - -41.91 
+2021 6.70 -1.17 -0.48 -0.22 4.71 -1.86 2020 3.82 -2.75 -10.93 -0.72 -0.58 0.60 -0.80 
+0.55 -2.83 2.23 3.34 5.74 -3.32 -16.64 2019 1.99 1.99 -1.64 5.60 -0.21 14.82 -2.71 
+3.81 -0.88 1.76 0.16 -2.37 23.32 -2.71 2018 -0.40 -6.69 -1.20 3.71 4.55 -0.19 2.50 
+-1.64 -2.07 -1.71 -0.72 1.16 -3.15 -8.18 2017 -1.68 4.51 2.09 5.23 2.81 -1.82 2.30 
+2.05 -0.50 3.67 2.65 1.64 25.19 -1.82 2016 0.44 -0.39 -1.26 1.44 1.30 -3.21 1.36 
+-1.69 0.96 -0.18 -1.74 2.56 -0.57 -4.49 2015 7.08 -1.70 1.25 -5.63 0.23 -3.93 3.82 
+-3.14 0.17 1.70 0.93 -1.08 -0.95 -9.56 
+Program / Index Apr Qtr YTD 1yr 3yr 5yr 10yr Since1/2015 
+"Multi-Strategy (Client + Proprietary, Please see Strategy Summary) -0.22 -1.86 4.71 13.39 26.97 50.20 - 49.09 "
+S&P 500 5.24 16.22 14.93 48.22 63.01 106.89 - 114.18 
++/- S&P 500 -5.46 -18.09 -10.22 -34.83 -36.03 -56.69 - -65.09 
 Type Managed Account 
 "Minimum Investment $ 5,000k "
 Trading Level Incremental Increase $ 0k 
@@ -34,122 +35,28 @@ Over 12 Months 0%
 Intraday 0% 
 Discretionary 5.00% 
 Systematic 95.00% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Depth Length (Mos.) Recovery (Mos.) Peak Valley 
--16.64 8 - 1/1/2020 9/1/2020 
--10.32 22 5 1/1/2015 11/1/2016 
--8.18 3 4 12/1/2017 3/1/2018 
--6.00 4 5 7/1/2018 11/1/2018 
--2.71 1 1 6/1/2019 7/1/2019 
--2.37 1 1 11/1/2019 12/1/2019 
--1.82 1 1 5/1/2017 6/1/2017 
--0.88 1 1 8/1/2019 9/1/2019 
--0.50 1 1 8/1/2017 9/1/2017 
--0.21 1 1 4/1/2019 5/1/2019 
-Run-up Length (Mos.) Start End 
-15.43 4 2/1/2017 5/1/2017 
-14.82 1 6/1/2019 6/1/2019 
-11.71 3 10/1/2020 12/1/2020 
-8.43 2 4/1/2018 5/1/2018 
-8.16 3 10/1/2017 12/1/2017 
-7.08 1 1/1/2015 1/1/2015 
-5.60 1 4/1/2019 4/1/2019 
-5.23 3 12/1/2018 2/1/2019 
-4.40 2 7/1/2017 8/1/2017 
-3.82 1 1/1/2020 1/1/2020 
-3.82 1 7/1/2015 7/1/2015 
-3.81 1 8/1/2019 8/1/2019 
-2.82 3 9/1/2015 11/1/2015 
-2.76 2 4/1/2016 5/1/2016 
-2.56 1 12/1/2016 12/1/2016 
-2.50 1 7/1/2018 7/1/2018 
-1.92 2 10/1/2019 11/1/2019 
-1.36 1 7/1/2016 7/1/2016 
-1.25 1 3/1/2015 3/1/2015 
-0.96 1 9/1/2016 9/1/2016 
-0.60 1 6/1/2020 6/1/2020 
-0.55 1 8/1/2020 8/1/2020 
-0.44 1 1/1/2016 1/1/2016 
-0.23 1 5/1/2015 5/1/2015 
-Run-up Length (Mos.) Start End 
--14.50 4 2/1/2020 5/1/2020 
--8.18 3 1/1/2018 3/1/2018 
--6.00 4 8/1/2018 11/1/2018 
--5.63 1 4/1/2015 4/1/2015 
--3.93 1 6/1/2015 6/1/2015 
--3.21 1 6/1/2016 6/1/2016 
--3.14 1 8/1/2015 8/1/2015 
--2.83 1 9/1/2020 9/1/2020 
--2.71 1 7/1/2019 7/1/2019 
--2.37 1 12/1/2019 12/1/2019 
--1.92 2 10/1/2016 11/1/2016 
--1.82 1 6/1/2017 6/1/2017 
--1.70 1 2/1/2015 2/1/2015 
--1.69 1 8/1/2016 8/1/2016 
--1.68 1 1/1/2017 1/1/2017 
--1.65 2 2/1/2016 3/1/2016 
--1.64 1 3/1/2019 3/1/2019 
--1.08 1 12/1/2015 12/1/2015 
--0.88 1 9/1/2019 9/1/2019 
--0.80 1 7/1/2020 7/1/2020 
--0.50 1 9/1/2017 9/1/2017 
--0.21 1 5/1/2019 5/1/2019 
--0.19 1 6/1/2018 6/1/2018 
-  1 Month 3 Month 6 Month 12 Month 18 Month 2 Year 3 Year 4 Year 
-Number of Periods 67.00 72.00 70.00 67.00 61.00 55.00 49.00 37.00 25.00 
-Percent Profitable 95.52 54.17 55.71 56.72 63.93 85.45 91.84 100.00 100.00 
-Average Period Return 23.90 0.55 1.32 2.62 6.51 11.84 17.15 27.47 37.04 
-Average Gain 25.09 2.78 5.12 8.07 13.14 14.73 19.08 27.47 37.04 
-Average Loss -1.51 -2.09 -3.46 -4.53 -5.24 -5.19 -4.49   
-Best Period 79.97 14.82 21.00 23.79 27.78 30.72 34.71 57.88 53.68 
-Worst Period -3.50 -10.93 -14.00 -14.68 -13.88 -8.13 -9.56 6.23 13.74 
-Standard Deviation 21.82 3.42 6.03 8.65 11.50 10.51 9.80 15.29 12.67 
-Gain Standard Deviation 21.59 2.60 4.63 6.87 8.46 8.35 7.59 15.29 12.67 
-Loss Standard Deviation 1.74 2.17 3.75 4.56 4.65 2.38 3.52   
-Sharpe Ratio (1%) 0.76 0.14 0.18 0.24 0.48 0.98 1.54 1.60 2.60 
-Average Gain / Average Loss 16.56 1.33 1.48 1.78 2.51 2.84 4.24   
-Profit / Loss Ratio 353.33 1.57 1.86 2.33 4.45 16.69 47.75   
-Downside Deviation (10%) 25.11 2.23 3.98 5.52 6.84 5.17 4.55 2.38 2.24 
-Downside Deviation (5%) 2.45 2.06 3.48 4.43 4.64 2.69 2.05   
-Downside Deviation (0%) 0.44 2.02 3.37 4.19 4.17 2.15 1.55   
-Sortino Ratio (10%) -0.67 0.06 0.02 0.03 0.22 0.82 1.52 4.91 6.91 
-Sortino Ratio (5%) 6.81 0.23 0.31 0.48 1.19 3.84 7.38   
-Sortino Ratio (0%) 54.37 0.27 0.39 0.62 1.56 5.50 11.06   
 Index Award Type Rank Performance Period 
 Program Name CAROR 
-Risk Parity + (Proprietary) 9.96% 
-"Multi-Strategy (Client + Proprietary, Please see Strategy Summary) 6.07% "
-SBF (Proprietary) 5.45% 
-BOND&FX (Proprietary) 4.01% 
+Risk Parity + (Proprietary) 10.73% 
+"Multi-Strategy (Client + Proprietary, Please see Strategy Summary) 6.51% "
+SBF (Proprietary) 5.52% 
+BOND&FX (Proprietary) 1.22% 
+Counter-trend 10.00%
+Fundamental 50.00%
+Momentum 10.00%
+Technical 20.00%
+Trend-following 10.00%
+Interest Rates 30.00%
+Stock Indices 30.00%
+Currency Futures 25.00%
+Energy 5.00%
+Grains 4.00%
+Precious Metals 3.00%
+Industrial Metals 2.00%
+Softs 1.00%
+Annualized Vol 11.83%
+Sharpe (RFR=1%) 0.51
+CAROR 6.51%
+Assets $ 5.8M
+Worst DD -16.64
+S&P  Correlation 0.33

@@ -1,12 +1,12 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2020 1.10 0.90 2.50 -0.40 -0.70 1.60 1.30 1.00 -2.60 -1.60 -1.66 -0.35 0.96 -6.08 
-2019 -0.30 -1.40 -1.90 -1.40 -0.30 1.20 -2.10 0.40 -2.10 -2.10 0.30 1.70 -7.81 -9.62 
-2018 3.10 -2.20 0.40 0.90 -1.00 2.00 0.40 -1.10 0.70 -5.20 1.80 1.20 0.73 -5.59 
-2017 0.30 -0.90 -0.70 0.90 -1.70 2.20 -3.90 2.10 -1.83 -4.14 
-Program / Index Dec Qtr YTD 1yr 3yr 5yr 10yr Since5/2017 
-Arctic Blue Inuvik -0.35 -2.00 - -0.14 -9.06 - - -7.96 
-S&P 500 3.71 11.69 - 16.26 40.48 - - 52.44 
-+/- S&P 500 -4.06 -13.69 - -16.39 -49.54 - - -60.40 
+2021 0.43 0.43 0.00 2020 1.10 0.90 2.50 -0.40 -0.70 1.60 1.30 1.00 -2.60 -1.60 
+-1.66 -0.35 0.96 -6.08 2019 -0.30 -1.40 -1.90 -1.40 -0.30 1.20 -2.10 0.40 -2.10 -2.10 
+0.30 1.70 -7.81 -9.62 2018 3.10 -2.20 0.40 0.90 -1.00 2.00 0.40 -1.10 0.70 -5.20 
+1.80 1.20 0.73 -5.59 2017 0.30 -0.90 -0.70 0.90 -1.70 2.20 -3.90 2.10 -1.83 -4.14 
+Program / Index Jan Qtr YTD 1yr 3yr 5yr 10yr Since5/2017 
+Arctic Blue Inuvik 0.43 0.00 0.43 -2.64 -7.82 - - -7.56 
+S&P 500 -1.11 13.59 -1.11 15.15 31.52 - - 77.17 
++/- S&P 500 1.54 -13.59 1.54 -17.79 -39.34 - - -84.73 
 Type Managed Account 
 "Minimum Investment $ 1,000k "
 Trading Level Incremental Increase $ 100k 
@@ -32,90 +32,21 @@ Over 12 Months 0%
 Intraday 0% 
 Discretionary 0% 
 Systematic 100.00% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Depth Length (Mos.) Recovery (Mos.) Peak Valley 
--12.09 15 - 7/1/2018 10/1/2019 
--4.14 6 2 5/1/2017 11/1/2017 
--2.20 1 4 1/1/2018 2/1/2018 
-Run-up Length (Mos.) Start End 
-6.66 5 11/1/2019 3/1/2020 
-5.27 2 12/1/2017 1/1/2018 
-3.95 3 6/1/2020 8/1/2020 
-3.02 2 11/1/2018 12/1/2018 
-2.41 2 6/1/2018 7/1/2018 
-2.20 1 10/1/2017 10/1/2017 
-1.30 2 3/1/2018 4/1/2018 
-1.20 1 6/1/2019 6/1/2019 
-0.90 1 8/1/2017 8/1/2017 
-0.70 1 9/1/2018 9/1/2018 
-0.40 1 8/1/2019 8/1/2019 
-0.30 1 5/1/2017 5/1/2017 
-Run-up Length (Mos.) Start End 
--6.08 4 9/1/2020 12/1/2020 
--5.20 1 10/1/2018 10/1/2018 
--5.20 5 1/1/2019 5/1/2019 
--4.16 2 9/1/2019 10/1/2019 
--3.90 1 11/1/2017 11/1/2017 
--2.20 1 2/1/2018 2/1/2018 
--2.10 1 7/1/2019 7/1/2019 
--1.70 1 9/1/2017 9/1/2017 
--1.59 2 6/1/2017 7/1/2017 
--1.10 1 8/1/2018 8/1/2018 
--1.10 2 4/1/2020 5/1/2020 
--1.00 1 5/1/2018 5/1/2018 
- 1 Month 3 Month 6 Month 12 Month 18 Month 2 Year 
-Number of Periods 44.00 42.00 39.00 33.00 27.00 21.00 
-Percent Profitable 50.00 42.86 41.03 48.48 7.41 0.00 
-Average Period Return -0.17 -0.49 -0.66 -1.62 -4.17 -5.85 
-Average Gain 1.27 2.06 2.89 2.35 0.46  
-Average Loss -1.62 -2.40 -3.13 -5.37 -4.54 -5.85 
-Best Period 3.10 4.56 6.23 5.10 0.81 -2.15 
-Worst Period -5.20 -5.75 -5.82 -9.84 -10.87 -10.67 
-Standard Deviation 1.77 2.73 3.52 4.55 3.48 1.88 
-Gain Standard Deviation 0.77 1.29 2.14 1.73 0.51  
-Loss Standard Deviation 1.19 1.77 1.65 2.81 3.35 1.88 
-Sharpe Ratio (1%) -0.14 -0.27 -0.33 -0.58 -1.63 -4.19 
-Average Gain / Average Loss 0.79 0.86 0.93 0.44 0.10  
-Profit / Loss Ratio 0.79 0.64 0.64 0.41 0.01  
-Downside Deviation (10%) 1.65 3.05 4.54 8.00 12.25 16.20 
-Downside Deviation (5%) 1.46 2.39 3.05 4.97 6.62 8.07 
-Downside Deviation (0%) 1.41 2.24 2.70 4.32 5.39 6.13 
-Sortino Ratio (10%) -0.35 -0.56 -0.69 -0.83 -0.96 -0.99 
-Sortino Ratio (5%) -0.18 -0.31 -0.38 -0.53 -0.86 -0.97 
-Sortino Ratio (0%) -0.12 -0.22 -0.24 -0.38 -0.77 -0.95 
 Index Award Type Rank Performance Period 
 Program Name CAROR 
-Force 10 (USD) 8.40% 
-Arctic Blue Inuvik -2.24% 
+Force 10 (USD) 9.18% 
+Counter-trend 33.00%
+Momentum 34.00%
+Trend-following 33.00%
+Currency Futures 20.00%
+Precious Metals 20.00%
+Energy 20.00%
+Softs 20.00%
+Grains 10.00%
+Livestock 10.00%
+Annualized Vol 6.06%
+Sharpe (RFR=1%) -0.48
+CAROR -2.08%
+Assets $ 32.8M
+Worst DD -12.09
+S&P  Correlation 0.04

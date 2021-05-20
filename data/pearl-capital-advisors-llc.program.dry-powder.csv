@@ -1,9 +1,9 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2020 0.00 0.00 0.00 0.00 0.00 
-Program / Index Dec Qtr YTD 1yr 3yr 5yr 10yr Since10/2020 
-Dry Powder 0.00 0.00 - - - - - 0.00 
-S&P 500 3.71 11.69 - - - - - 13.59 
-+/- S&P 500 -3.71 -11.69 - - - - - -13.59 
+2021 0.00 0.00 0.00 2020 0.00 0.00 0.00 0.00 0.00 
+Program / Index Jan Qtr YTD 1yr 3yr 5yr 10yr Since10/2020 
+Dry Powder 0.00 0.00 0.00 - - - - 0.00 
+S&P 500 -1.11 13.59 -1.11 - - - - 32.02 
++/- S&P 500 1.11 -13.59 1.11 - - - - -32.02 
 Type Managed Account 
 Minimum Investment $ 250k 
 Trading Level Incremental Increase $ 0k 
@@ -29,63 +29,13 @@ Over 12 Months 0%
 Intraday 0% 
 Discretionary 0% 
 Systematic 100.00% 
-Reward  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Reward  
-Compound RoR:  
-Average RoR:  
-Max Gain:  
-Gain Frequency:  
-Average Gain:  
-Gain Deviation:  
-Risk  
-Standard Deviation:  
-Worst Loss:  
-Loss Frequency:  
-Average Loss:  
-Loss Deviation:  
-Reward/Risk  
-Sharpe Ratio: (RF=1%)  
-Skewness:  
-Kurtosis:  
-Run-up Length (Mos.) Start End 
-Run-up Length (Mos.) Start End 
- 1 Month 
-Number of Periods 3.00 
-Percent Profitable 0.00 
-Average Period Return 0.00 
-Average Gain  
-Average Loss  
-Best Period 0.00 
-Worst Period 0.00 
-Standard Deviation 0.00 
-Gain Standard Deviation  
-Loss Standard Deviation  
-Sharpe Ratio (1%)  
-Average Gain / Average Loss  
-Profit / Loss Ratio  
-Downside Deviation (10%) 0.41 
-Downside Deviation (5%) 0.08 
-Downside Deviation (0%)  
-Sortino Ratio (10%) -1.00 
-Sortino Ratio (5%) -1.00 
-Sortino Ratio (0%)  
 Index Award Type Rank Performance Period 
 Program Name CAROR 
-Tactical Growth - 
-Hedged VIX Program 3.11% 
-Dry Powder - 
+Momentum 100.00%
+VIX 100.00%
+Annualized Vol 0.00%
+Sharpe (RFR=1%) 0.00
+CAROR -
+Assets $ 9.0M
+Worst DD N/A
+S&P  Correlation 0.00
