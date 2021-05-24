@@ -96,7 +96,7 @@ if __name__=="__main__":
         #    for index, value in enumerate(executor.map(scrape_data, urls)):
         #        print(f'{index} {urls[index]}')
         #        pass
-        for index in range(235, len(urls)):
+        for index in range(2, len(urls)):
             print(f'{index} {urls[index]}') 
             scrape_data(urls[index])
     print("--- %s seconds ---" % (time.time() - start_time))
