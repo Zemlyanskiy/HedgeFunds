@@ -1,11 +1,11 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2021 -1.90 0.50 -1.41 -1.90 2020 -0.70 1.69 2.02 1.60 0.80 0.50 -0.90 -3.90 5.10 
-0.30 0.10 -1.30 5.17 -4.76 2019 7.30 0.40 -0.20 -1.70 1.50 -0.60 -1.50 -0.50 0.60 
-0.70 0.20 -0.40 5.65 -2.99 
-Program / Index Feb Qtr YTD 1yr 3yr 5yr 10yr Since1/2019 
-AlphaVol 0.50 0.50 -1.41 -0.94 - - - 9.55 
-S&P 500 5.94 8.65 4.76 33.19 - - - 59.63 
-+/- S&P 500 -5.44 -8.15 -6.17 -34.13 - - - -50.08 
+2021 -1.90 0.50 0.70 -3.40 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -4.09 -4.09 
+2020 -0.70 1.69 2.02 1.60 0.80 0.50 -0.90 -3.90 5.10 0.30 0.10 -1.30 5.17 -4.76 
+2019 7.30 0.40 -0.20 -1.70 1.50 -0.60 -1.50 -0.50 0.60 0.70 0.20 -0.40 5.65 -2.99 
+Program / Index Apr Qtr YTD 1yr 3yr 5yr 10yr Since1/2019 
+AlphaVol -3.40 -2.24 -4.09 -3.63 - - - 6.56 
+S&P 500 5.24 16.22 14.93 48.22 - - - 59.63 
++/- S&P 500 -8.64 -18.46 -19.03 -51.86 - - - -53.06 
 Type Managed Account 
 Minimum Investment $ 100k 
 Trading Level Incremental Increase $ 100k 
@@ -33,14 +33,14 @@ Discretionary 0%
 Systematic 100.00% 
 Index Award Type Rank Performance Period 
 Program Name CAROR 
-AlphaVol 4.30% 
+AlphaVol 2.76% 
 Pattern Recognition 50.00%
 Spreading/hedging 50.00%
 VIX 75.00%
 Stock Indices 25.00%
-Annualized Vol 7.51%
-Sharpe (RFR=1%) 0.46
-CAROR 4.30%
-Assets $ 16.5M
-Worst DD -4.76
-S&P  Correlation -0.15
+Annualized Vol 7.64%
+Sharpe (RFR=1%) 0.26
+CAROR 2.76%
+Assets $ 19.0M
+Worst DD -5.34
+S&P  Correlation -0.18

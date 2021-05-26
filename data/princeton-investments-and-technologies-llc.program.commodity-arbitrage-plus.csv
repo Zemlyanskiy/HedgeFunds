@@ -1,10 +1,11 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2021 -0.31 -1.12 1.34 -0.11 -1.43 2020 2.45 0.66 2.74 3.93 3.57 1.82 4.16 6.74 
--6.73 -4.59 6.29 2.79 25.52 -11.01 2019 -0.02 1.12 0.48 1.59 -0.02 
-Program / Index Mar Qtr YTD 1yr 3yr 5yr 10yr Since10/2019 
-Commodity Arbitrage Plus 1.34 0.20 -0.11 13.87 - - - 27.38 
-S&P 500 4.24 9.21 9.21 58.70 - - - 42.12 
-+/- S&P 500 -2.90 -9.00 -9.31 -44.83 - - - -14.74 
+2021 -0.31 -1.12 1.34 1.54 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.43 -1.43 
+2020 2.45 0.66 2.74 3.93 3.57 1.82 4.16 6.74 -6.73 -4.59 6.29 2.79 25.52 -11.01 
+2019 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -0.02 1.12 0.48 1.59 -0.02 
+Program / Index Apr Qtr YTD 1yr 3yr 5yr 10yr Since10/2019 
+Commodity Arbitrage Plus 1.54 1.75 1.43 15.63 - - - 29.34 
+S&P 500 5.24 16.22 14.93 48.22 - - - 42.12 
++/- S&P 500 -3.70 -14.48 -13.50 -32.60 - - - -12.78 
 Type Managed Account 
 Minimum Investment $ 150k 
 Trading Level Incremental Increase $ 0k 
@@ -40,8 +41,8 @@ Precious Metals 15.00%
 Energy 15.00%
 Grains 15.00%
 Livestock 15.00%
-Annualized Vol 11.61%
-Sharpe (RFR=1%) 1.37
+Annualized Vol 11.28%
+Sharpe (RFR=1%) 1.42
 CAROR -
 Assets $ 3.0M
 Worst DD -11.01
