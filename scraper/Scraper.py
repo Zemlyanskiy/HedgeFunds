@@ -25,16 +25,29 @@ def scrape_data(url):
         if tableCalendar is None:
             os.remove('..//data//' + fileName + '.csv')
             return
-        strList = tableCalendar.text.split('\n')
-        str=''
-        for index in range(0, len(strList)):
-            if index % 15 == 0 and index != 0:
-                str += '\n' + strList[index]+' '
-            else:
-                str += strList[index] + ' '
-        strList = str.split('\n')
-        for s in strList:
-            writer.writerow([s])
+        soupCalendar = BeautifulSoup(tableCalendar.html, 'html.parser')
+        body = soupCalendar.find('tbody')
+        head = soupCalendar.find('thead')
+        if head is not None:
+            headRow = head.find('tr')
+            headColumns = headRow.find_all('th')
+            str=''
+            for col in headColumns:
+                str+=col.text.strip()+' '
+            writer.writerow([str])
+        rows = body.find_all('tr')
+        for row in rows:
+            columns = row.find_all('th')
+            dinColumns = row.find_all('td')
+            str=''
+            for col in columns:
+                str+=col.text.strip()+' '
+            for col in dinColumns:
+                if len(col.text.strip()) > 0:
+                    str+=col.text.strip()+' '
+                else:
+                    str+='0.0'+' '
+            writer.writerow([str])        
         tables = soup.find_all('table')
         for table in tables:
             if table != soup.find('table', class_='performance-table responsive') and table not in soup.find_all('table', class_='minimal'):
@@ -96,7 +109,7 @@ if __name__=="__main__":
         #    for index, value in enumerate(executor.map(scrape_data, urls)):
         #        print(f'{index} {urls[index]}')
         #        pass
-        for index in range(2, len(urls)):
+        for index in range(377, len(urls)):
             print(f'{index} {urls[index]}') 
             scrape_data(urls[index])
     print("--- %s seconds ---" % (time.time() - start_time))

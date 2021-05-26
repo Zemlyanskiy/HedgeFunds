@@ -1,11 +1,12 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2021 -11.15 3.20 -4.00 -11.97 -11.97 2020 2.11 0.16 10.05 13.60 -2.78 2.94 2.65 1.30 
-13.25 1.90 -0.95 4.65 59.16 -2.78 2019 0.75 4.88 -0.57 3.39 2.99 2.02 1.40 5.53 
-3.55 -2.82 5.83 3.19 34.22 -2.82 2018 0.90 5.62 1.16 1.61 9.54 0.00 
-Program / Index Mar Qtr YTD 1yr 3yr 5yr 10yr Since9/2018 
-Natural Gas Strategy -4.00 -0.93 -11.97 9.58 - - - 105.99 
-S&P 500 4.24 9.21 9.21 58.70 - - - 48.13 
-+/- S&P 500 -8.24 -10.13 -21.18 -49.13 - - - 57.85 
+2021 -11.15 3.20 -4.00 4.40 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -8.10 -11.97 
+2020 2.11 0.16 10.05 13.60 -2.78 2.94 2.65 1.30 13.25 1.90 -0.95 4.65 59.16 -2.78 
+2019 0.75 4.88 -0.57 3.39 2.99 2.02 1.40 5.53 3.55 -2.82 5.83 3.19 34.22 -2.82 
+2018 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.90 5.62 1.16 1.61 9.54 0.00 
+Program / Index Apr Qtr YTD 1yr 3yr 5yr 10yr Since9/2018 
+Natural Gas Strategy 4.40 3.43 -8.10 14.40 - - - 115.05 
+S&P 500 5.24 16.22 14.93 48.22 - - - 48.13 
++/- S&P 500 -0.84 -12.79 -23.03 -33.82 - - - 66.92 
 Type Managed Account 
 "Minimum Investment $ 50,000k "
 Trading Level Incremental Increase $ 0k 
@@ -38,11 +39,11 @@ Discretionary Trader Index Month 9 1.90 10/2020
 Discretionary Trader Index Month 1 13.25 9/2020 
 Discretionary Trader Index Month 1 13.25 9/2020 
 Program Name CAROR 
-Natural Gas Strategy 32.28% 
+Natural Gas Strategy 33.26% 
 Energy 100.00%
-Annualized Vol 16.28%
-Sharpe (RFR=1%) 1.75
-CAROR 32.28%
-"Assets $ 1,354.0M"
+Annualized Vol 16.06%
+Sharpe (RFR=1%) 1.82
+CAROR 33.26%
+"Assets $ 1,364.0M"
 Worst DD -11.97
-S&P  Correlation -0.09
+S&P  Correlation -0.08

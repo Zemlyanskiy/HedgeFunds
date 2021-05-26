@@ -1,11 +1,12 @@
 Year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec YTD DD 
-2021 -0.17 -0.17 -0.17 -0.51 -0.51 2020 1.17 -0.32 -0.17 -0.17 -0.17 -0.17 -0.17 -0.17 
--0.17 -0.17 -0.17 -0.17 -0.85 -2.00 2019 1.31 1.22 2.53 2.10 -4.57 0.81 0.66 -0.17 
--0.12 1.31 2.35 -1.12 6.31 -4.57 2018 0.55 0.48 1.03 0.00 
-Program / Index Mar Qtr YTD 1yr 3yr 5yr 10yr Since11/2018 
-VIX Timer -0.17 -0.34 -0.51 -1.85 - - - 5.98 
-S&P 500 4.24 9.21 9.21 58.70 - - - 56.39 
-+/- S&P 500 -4.41 -9.54 -9.72 -60.56 - - - -50.41 
+2021 -0.17 -0.17 -0.17 -0.17 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -0.68 -0.68 
+2020 1.17 -0.32 -0.17 -0.17 -0.17 -0.17 -0.17 -0.17 -0.17 -0.17 -0.17 -0.17 -0.85 -2.00 
+2019 1.31 1.22 2.53 2.10 -4.57 0.81 0.66 -0.17 -0.12 1.31 2.35 -1.12 6.31 -4.57 
+2018 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.55 0.48 1.03 0.00 
+Program / Index Apr Qtr YTD 1yr 3yr 5yr 10yr Since11/2018 
+VIX Timer -0.17 -0.51 -0.68 -2.02 - - - 5.81 
+S&P 500 5.24 16.22 14.93 48.22 - - - 56.39 
++/- S&P 500 -5.41 -16.73 -15.61 -50.24 - - - -50.58 
 Type Managed Account 
 Minimum Investment $ 100k 
 Trading Level Incremental Increase $ 100k 
@@ -41,14 +42,14 @@ Option Strategy Index Month 7 -0.16 10/2020
 Option Strategy Index Month 6 -0.16 9/2020 
 Program Name CAROR 
 "QTS Partners, L.P. 14.75% "
-Chimera 12.74% 
-Tail Reaper 9.02% 
-VIX Timer 2.41% 
+Chimera 12.95% 
+Tail Reaper 9.11% 
+VIX Timer 2.25% 
 Option-writing 100.00%
 VIX 100.00%
-Annualized Vol 4.42%
-Sharpe (RFR=1%) 0.33
-CAROR 2.41%
-Assets $ 3.5M
+Annualized Vol 4.35%
+Sharpe (RFR=1%) 0.31
+CAROR 2.25%
+Assets $ 3.4M
 Worst DD -4.57
 S&P  Correlation 0.26
