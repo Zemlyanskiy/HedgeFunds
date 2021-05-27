@@ -1,2 +1,2 @@
 # HedgeFunds
-Formation of an investment portfolio using machine learning
+Optimization of investment portfolio in hedge funds
