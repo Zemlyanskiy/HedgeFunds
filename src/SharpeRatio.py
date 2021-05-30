@@ -1,6 +1,6 @@
 import statistics
 
-def CalculateSharpe(portfolio, notRisk=4):
+def CalculateSharpe(portfolio, notRisk=0.0):
     perfomance = 0.0
     risk = 0.0
     for fund in portfolio.Funds:
@@ -11,7 +11,7 @@ def CalculateSharpe(portfolio, notRisk=4):
         if len(arr) > 0:
             perfomance += Perfomance(arr, fund.Weight)
             risk += Risk(arr, fund.Weight)
-            portfolio.SharpeRatio = (perfomance-risk) / notRisk
+            portfolio.SharpeRatio = (perfomance-notRisk) / risk
             portfolio.Perfomance = perfomance
             portfolio.Risk = risk
 

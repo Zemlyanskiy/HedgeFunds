@@ -1,10 +1,11 @@
 class Portfolio:
-    def __init__(self, capital=None, sharpeRatio=None, risk = None, perfomance = None):
+    def __init__(self, capital=None, sharpeRatio=None, risk = None, perfomance = None, index = None):
         self.Funds = []
         self.Capital = capital
         self.SharpeRatio = sharpeRatio
         self.Risk = risk
         self.Perfomance = perfomance
+        self.Index = index
 
 class HedgeFund:
     def __init__(self, name = None, sharpeRatioData=None, minInvest = None, weight = None):
