@@ -6,36 +6,37 @@ from src.Entities import Portfolio, HedgeFund
 import numpy as np
 import matplotlib.pyplot as plt
 
-def CheckWeights(portfolio, fund, delta):
+def CheckWeights(portfolio, fund, delta, capit):
     alpha = 0.0
     capital = float(portfolio.Capital)
     newPorts = []
-    while float("{0:.1f}".format(alpha + delta)) < 1.0 and float("{0:.1f}".format(capital - fund.MinInvest * alpha)) > 0.0:
+    while float("{0:.1f}".format(alpha + delta)) < 1.0 and float("{0:.1f}".format(capital - fund.MinInvest * (1 - alpha))) > 0.0:
         newPort = Portfolio()
         newFund = HedgeFund()
         newFund.Name = fund.Name
-        newFund.Statistics = list(fund.Statistics)
+        newFund.Statistics = fund.Statistics
         newFund.MinInvest = fund.MinInvest
         newFund.SharpeRatioData = fund.SharpeRatioData
         newPort.Funds = []
         for f in portfolio.Funds:
             n = HedgeFund(f.Name, f.SharpeRatioData, f.MinInvest, float(f.Weight))
+            n.Statistics = f.Statistics
             newPort.Funds.append(n)
         newPort.Capital = portfolio.Capital
         alpha += delta
         capital -= newFund.MinInvest * alpha
         for f in newPort.Funds:
-            f.Weight -= alpha / len(newPort.Funds)
-        newFund.Weight = float(alpha)
+            f.Weight *= alpha
+        newFund.Weight = float(1 - alpha)
         newPort.Funds.append(newFund)
-        CalculateSharpe(newPort)
+        CalculateSharpe(newPort, capit)
         newPorts.append(newPort)
 
     return newPorts
 
 def Main():
     #capital = int(sys.argv[1])
-    iterations = 5
+    iterations = 1
     portfolio = Portfolio()
     portfolio.Funds = []
     portfolio.Capital = 1000000
@@ -49,20 +50,20 @@ def Main():
     hedgeFundList = get_list
     portfolio.Funds.append(max(hedgeFundList, key=attrgetter('SharpeRatioData')))
     portfolio.Funds[0].Weight = 1.0
+    capit = float(portfolio.Capital)
     portfolio.Capital -= portfolio.Funds[0].MinInvest
-    CalculateSharpe(portfolio)
+    CalculateSharpe(portfolio, capit)
     ports=[]
     delta = 0.1
     for i in range(0, iterations):
         for index, fund in enumerate(hedgeFundList):
             if portfolio.Funds.count(fund) == 0:
-                portfolies = CheckWeights(portfolio, fund, delta)
+                portfolies = CheckWeights(portfolio, fund, delta, capit)
                 newPortfolio = max(portfolies, key=attrgetter('SharpeRatio'))
                 if newPortfolio.SharpeRatio > portfolio.SharpeRatio:
                     portfolio = newPortfolio
                     newPortfolio.Index = i
                     ports.append(newPortfolio)
-        delta *= 0.1
     rt = []
     for i in range(0, iterations):
         if i < len(ports):
