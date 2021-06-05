@@ -1,7 +1,6 @@
 import statistics
 
 def CalculateSharpe(portfolio, notRisk=0.0):
-    perfomance = 0.0
     risk = 0.0
     for fund in portfolio.Funds:
         arr = []
@@ -9,15 +8,27 @@ def CalculateSharpe(portfolio, notRisk=0.0):
             for month in stat.MonthPerform:
                 arr.append(month.Perfomance)
         if len(arr) > 0:
-            perfomance += Perfomance(arr, fund.Weight)
             risk += Risk(arr, fund.Weight)
-            portfolio.SharpeRatio = (perfomance-notRisk) / risk
-            portfolio.Perfomance = perfomance
-            portfolio.Risk = risk
+            fund.NumbersPeriod = list(arr)
+    perfomance = Perfomance(portfolio.Funds)
+    portfolio.SharpeRatio = (perfomance-notRisk) / risk
+    portfolio.Perfomance = perfomance
+    portfolio.Risk = risk
 
-
-def Perfomance(numbers, weight):
-    return float(sum(numbers)) / max(len(numbers), 1) * weight
+def Perfomance(funds):
+    portRes = 0.0
+    for fund in funds:
+        perfPeriod = 1.0
+        for num in fund.NumbersPeriod:
+            perfPeriod *= (1 + num)
+        res = float(perfPeriod)
+        if res < 0:
+            return 0.0
+        res **= 1 / len(fund.NumbersPeriod)
+        res -= 1
+        res *= fund.Weight
+        portRes += res
+    return portRes
 
 def Risk(numbers, weight):
     return statistics.stdev(numbers) * weight

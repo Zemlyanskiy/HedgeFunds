@@ -105,10 +105,6 @@ if __name__=="__main__":
     start_time = time.time()
     with open('links.txt', 'r') as f:
         urls = f.read().splitlines()
-        #with PoolExecutor(max_workers=16) as executor:
-        #    for index, value in enumerate(executor.map(scrape_data, urls)):
-        #        print(f'{index} {urls[index]}')
-        #        pass
         for index in range(377, len(urls)):
             print(f'{index} {urls[index]}') 
             scrape_data(urls[index])

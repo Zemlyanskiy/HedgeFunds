@@ -12,8 +12,9 @@ class HedgeFund:
         self.Name = name
         self.SharpeRatioData = sharpeRatioData
         self.MinInvest = minInvest
-        self.Statistics= []
+        self.Statistics = []
         self.Weight = weight
+        self.NumbersPeriod = []
 
 class Statistics:
     def __init__(self, year=None, ytd=None, dd=None):
